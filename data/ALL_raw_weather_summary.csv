@@ -1,0 +1,176 @@
+﻿Year,Round,EventName,IsRainy,RainyLapFraction,AirTemp_mean,TrackTemp_mean,Humidity_mean,WindSpeed_mean
+2018,1,Australian Grand Prix,True,0.045,24.077,36.324,30.915,3.692
+2018,2,Bahrain Grand Prix,False,0.0,27.983,32.198,47.363,0.958
+2018,3,Chinese Grand Prix,True,0.0179,19.446,37.02,24.089,1.838
+2018,4,Azerbaijan Grand Prix,False,0.0,16.661,25.252,45.652,2.223
+2018,5,Spanish Grand Prix,True,0.7905,16.05,32.339,52.287,1.952
+2018,6,Monaco Grand Prix,True,0.1239,26.641,34.61,50.893,1.382
+2018,7,Canadian Grand Prix,False,0.0,20.524,36.949,27.825,2.472
+2018,8,French Grand Prix,True,0.0098,24.546,42.033,49.049,1.816
+2018,9,Austrian Grand Prix,False,0.0,23.176,45.879,37.141,2.485
+2018,10,British Grand Prix,False,0.0,27.432,52.169,38.74,1.461
+2018,11,German Grand Prix,True,0.2596,26.402,40.668,54.808,2.009
+2018,12,Hungarian Grand Prix,False,0.0,33.759,51.09,33.007,1.143
+2018,13,Belgian Grand Prix,False,0.0,17.327,27.898,37.701,2.04
+2018,14,Italian Grand Prix,True,0.2323,22.19,30.822,63.807,2.124
+2018,15,Singapore Grand Prix,False,0.0,29.865,33.124,66.036,1.979
+2018,16,Russian Grand Prix,True,0.0182,24.778,29.945,61.308,1.997
+2018,17,Japanese Grand Prix,False,0.0,28.265,37.17,50.516,1.792
+2018,18,United States Grand Prix,False,0.0,21.934,30.486,37.556,2.091
+2018,19,Mexican Grand Prix,False,0.0,20.123,34.47,50.709,1.559
+2018,20,Brazilian Grand Prix,False,0.0,23.77,40.069,75.413,2.187
+2018,21,Abu Dhabi Grand Prix,True,0.0438,31.274,33.318,45.438,2.164
+2019,1,Australian Grand Prix,False,0.0,23.478,41.313,70.453,1.166
+2019,2,Bahrain Grand Prix,False,0.0,26.211,28.611,53.372,2.711
+2019,3,Chinese Grand Prix,False,0.0,19.33,27.337,45.981,3.316
+2019,4,Azerbaijan Grand Prix,False,0.0,19.764,39.654,51.409,1.25
+2019,5,Spanish Grand Prix,False,0.0,20.148,40.727,54.724,1.93
+2019,6,Monaco Grand Prix,True,0.6259,22.755,32.729,52.698,0.904
+2019,7,Canadian Grand Prix,False,0.0,29.368,51.098,16.148,1.309
+2019,8,French Grand Prix,False,0.0,26.894,54.526,39.091,1.679
+2019,9,Austrian Grand Prix,False,0.0,34.444,50.744,17.965,1.225
+2019,10,British Grand Prix,False,0.0,18.905,30.322,62.136,2.012
+2019,11,German Grand Prix,True,0.966,21.503,26.441,87.831,1.006
+2019,12,Hungarian Grand Prix,False,0.0,25.66,44.097,33.893,1.194
+2019,13,Belgian Grand Prix,False,0.0,17.4,28.119,57.03,2.036
+2019,14,Italian Grand Prix,False,0.0,21.097,33.041,51.575,1.567
+2019,15,Singapore Grand Prix,False,0.0,29.965,35.753,66.455,1.857
+2019,16,Russian Grand Prix,True,0.0076,22.03,34.332,67.415,1.874
+2019,17,Japanese Grand Prix,False,0.0,21.619,32.184,57.478,5.469
+2019,18,Mexican Grand Prix,False,0.0,23.203,41.633,46.288,1.327
+2019,19,United States Grand Prix,False,0.0,21.476,29.082,29.243,2.553
+2019,20,Brazilian Grand Prix,False,0.0,21.017,46.453,60.289,1.288
+2019,21,Abu Dhabi Grand Prix,False,0.0,26.018,29.566,64.471,1.265
+2020,1,Austrian Grand Prix,False,0.0,28.684,52.025,33.833,1.887
+2020,2,Styrian Grand Prix,True,0.0167,20.822,39.92,34.005,2.228
+2020,3,Hungarian Grand Prix,True,0.0149,20.742,27.13,77.193,1.56
+2020,4,British Grand Prix,False,0.0,21.291,40.633,44.168,3.114
+2020,5,70th Anniversary Grand Prix,False,0.0,25.287,43.228,58.556,2.236
+2020,6,Spanish Grand Prix,False,0.0,29.797,47.556,56.384,1.545
+2020,7,Belgian Grand Prix,False,0.0,18.569,29.824,54.853,1.465
+2020,8,Italian Grand Prix,False,0.0,28.091,41.201,40.124,1.521
+2020,9,Tuscan Grand Prix,False,0.0,30.17,43.102,39.944,2.365
+2020,10,Russian Grand Prix,False,0.0,28.806,40.342,51.363,1.429
+2020,11,Eifel Grand Prix,True,0.0204,9.5,16.36,59.404,1.617
+2020,12,Portuguese Grand Prix,False,0.0,20.505,25.716,67.528,4.041
+2020,13,Emilia Romagna Grand Prix,False,0.0,18.03,23.261,71.137,1.342
+2020,14,Turkish Grand Prix,True,0.0432,13.096,15.206,80.161,1.066
+2020,15,Bahrain Grand Prix,False,0.0,25.099,27.548,67.847,0.843
+2020,16,Sakhir Grand Prix,False,0.0,20.947,23.469,58.169,1.948
+2020,17,Abu Dhabi Grand Prix,False,0.0,23.121,27.98,55.447,2.504
+2021,1,Bahrain Grand Prix,False,0.0,20.538,27.628,54.517,0.887
+2021,2,Emilia Romagna Grand Prix,True,0.4099,10.621,16.827,69.489,0.479
+2021,3,Portuguese Grand Prix,False,0.0,19.393,38.951,39.404,0.837
+2021,4,Spanish Grand Prix,False,0.0,22.203,32.922,57.553,0.458
+2021,5,Monaco Grand Prix,False,0.0,20.761,37.596,61.424,0.316
+2021,6,Azerbaijan Grand Prix,False,0.0,24.171,38.315,55.805,0.284
+2021,7,French Grand Prix,False,0.0,25.314,35.229,58.63,1.166
+2021,8,Styrian Grand Prix,False,0.0,26.692,52.353,33.247,0.368
+2021,9,Austrian Grand Prix,True,0.0385,20.966,33.184,49.731,0.348
+2021,10,British Grand Prix,False,0.0,29.4,50.932,37.202,0.318
+2021,11,Hungarian Grand Prix,True,0.3037,27.227,37.823,68.616,0.568
+2021,12,Belgian Grand Prix,True,0.8414,13.012,15.259,96.436,0.511
+2021,13,Dutch Grand Prix,False,0.0,21.504,36.106,54.108,0.442
+2021,14,Italian Grand Prix,False,0.0,28.885,43.528,33.276,0.343
+2021,15,Russian Grand Prix,True,0.1013,19.139,21.757,61.947,0.291
+2021,16,Turkish Grand Prix,False,0.0,15.825,18.181,93.525,0.487
+2021,17,United States Grand Prix,False,0.0,28.148,37.471,61.193,0.854
+2021,18,Mexico City Grand Prix,False,0.0,21.207,47.579,31.211,0.366
+2021,19,São Paulo Grand Prix,False,0.0,23.137,51.561,60.101,0.392
+2021,20,Qatar Grand Prix,True,0.0197,26.415,30.603,75.54,0.423
+2021,21,Saudi Arabian Grand Prix,False,0.0,28.816,31.685,76.203,0.272
+2021,22,Abu Dhabi Grand Prix,False,0.0,24.519,28.466,59.055,0.415
+2022,1,Bahrain Grand Prix,False,0.0,23.618,28.61,29.491,0.305
+2022,2,Saudi Arabian Grand Prix,False,0.0,25.42,28.409,59.664,2.359
+2022,3,Australian Grand Prix,False,0.0,26.697,37.408,43.654,1.813
+2022,4,Emilia Romagna Grand Prix,False,0.0,12.899,17.419,83.171,1.482
+2022,5,Miami Grand Prix,True,0.0556,30.617,42.82,58.858,2.267
+2022,6,Spanish Grand Prix,False,0.0,36.566,48.957,7.11,3.488
+2022,7,Monaco Grand Prix,True,0.4367,22.275,31.038,75.665,0.99
+2022,8,Azerbaijan Grand Prix,False,0.0,25.435,47.15,59.491,1.529
+2022,9,Canadian Grand Prix,False,0.0,20.763,41.261,28.926,3.552
+2022,10,British Grand Prix,True,0.0443,18.253,30.026,59.749,1.456
+2022,11,Austrian Grand Prix,False,0.0,20.256,30.747,35.138,1.255
+2022,12,French Grand Prix,False,0.0,30.165,54.462,47.734,1.946
+2022,13,Hungarian Grand Prix,True,0.2754,18.56,26.721,69.317,4.034
+2022,14,Belgian Grand Prix,False,0.0,21.787,36.084,40.519,1.519
+2022,15,Dutch Grand Prix,False,0.0,22.73,33.446,75.38,1.062
+2022,16,Italian Grand Prix,False,0.0,27.735,43.139,33.15,1.361
+2022,17,Singapore Grand Prix,True,0.1804,26.233,28.973,87.447,0.93
+2022,18,Japanese Grand Prix,True,0.9804,16.718,19.931,86.212,2.041
+2022,19,United States Grand Prix,False,0.0,29.285,35.524,49.624,5.487
+2022,20,Mexico City Grand Prix,False,0.0,24.313,41.689,34.442,1.337
+2022,21,São Paulo Grand Prix,False,0.0,23.011,46.049,76.078,1.444
+2022,22,Abu Dhabi Grand Prix,False,0.0,28.575,34.31,61.684,2.608
+2023,1,Bahrain Grand Prix,False,0.0,27.432,31.012,21.497,0.683
+2023,2,Saudi Arabian Grand Prix,False,0.0,26.092,31.793,57.791,1.772
+2023,3,Australian Grand Prix,False,0.0,17.45,30.14,54.158,1.127
+2023,4,Azerbaijan Grand Prix,False,0.0,24.861,41.21,49.225,1.083
+2023,5,Miami Grand Prix,False,0.0,27.117,36.689,59.426,3.97
+2023,6,Monaco Grand Prix,True,0.1477,25.066,39.256,45.864,1.006
+2023,7,Spanish Grand Prix,False,0.0,22.674,33.839,63.078,1.869
+2023,8,Canadian Grand Prix,False,0.0,18.53,30.593,63.901,1.942
+2023,9,Austrian Grand Prix,True,0.0196,22.398,32.054,52.046,1.097
+2023,10,British Grand Prix,False,0.0,21.474,30.941,56.185,3.024
+2023,11,Hungarian Grand Prix,False,0.0,28.809,48.579,32.805,1.441
+2023,12,Belgian Grand Prix,True,0.0733,17.873,28.241,61.927,1.595
+2023,13,Dutch Grand Prix,True,0.2297,16.792,24.941,70.775,2.822
+2023,14,Italian Grand Prix,False,0.0,29.33,42.928,42.321,1.14
+2023,15,Singapore Grand Prix,False,0.0,29.844,36.422,72.028,1.416
+2023,16,Japanese Grand Prix,False,0.0,27.289,42.07,42.316,1.83
+2023,17,Qatar Grand Prix,False,0.0,31.463,36.932,73.157,0.89
+2023,18,United States Grand Prix,False,0.0,29.96,40.629,41.911,3.314
+2023,19,Mexico City Grand Prix,False,0.0,25.547,45.639,23.553,1.49
+2023,20,São Paulo Grand Prix,True,0.0055,20.46,46.776,58.175,1.309
+2023,21,Las Vegas Grand Prix,False,0.0,18.05,17.994,47.361,2.301
+2023,22,Abu Dhabi Grand Prix,False,0.0,26.963,33.461,51.0,1.795
+2024,1,Bahrain Grand Prix,False,0.0,18.227,23.653,48.822,0.786
+2024,2,Saudi Arabian Grand Prix,False,0.0,25.528,31.593,62.336,1.303
+2024,3,Australian Grand Prix,False,0.0,20.622,38.402,44.451,0.953
+2024,4,Japanese Grand Prix,False,0.0,21.691,37.501,43.431,2.241
+2024,5,Chinese Grand Prix,False,0.0,18.639,29.793,66.061,1.68
+2024,6,Miami Grand Prix,False,0.0,28.522,44.664,59.007,3.081
+2024,7,Emilia Romagna Grand Prix,False,0.0,25.114,42.024,48.427,2.141
+2024,8,Monaco Grand Prix,False,0.0,21.596,46.318,63.99,0.98
+2024,9,Canadian Grand Prix,True,0.2743,17.797,24.57,73.381,1.17
+2024,10,Spanish Grand Prix,True,0.0065,24.132,41.096,63.442,2.123
+2024,11,Austrian Grand Prix,True,0.007,29.426,46.421,35.007,1.668
+2024,12,British Grand Prix,True,0.3469,15.771,27.67,67.333,1.348
+2024,13,Hungarian Grand Prix,False,0.0,28.824,44.916,46.923,1.25
+2024,14,Belgian Grand Prix,False,0.0,21.328,42.267,49.584,1.683
+2024,15,Dutch Grand Prix,False,0.0,19.006,30.806,60.961,4.569
+2024,16,Italian Grand Prix,False,0.0,33.102,49.311,32.286,1.519
+2024,17,Azerbaijan Grand Prix,False,0.0,26.706,44.349,38.02,1.551
+2024,18,Singapore Grand Prix,False,0.0,30.786,36.446,74.65,0.955
+2024,19,United States Grand Prix,False,0.0,28.121,46.602,35.535,1.5
+2024,20,Mexico City Grand Prix,False,0.0,19.889,35.603,51.05,2.151
+2024,21,São Paulo Grand Prix,True,0.5821,21.663,25.77,85.259,0.736
+2024,22,Las Vegas Grand Prix,False,0.0,17.825,17.724,47.86,2.899
+2024,23,Qatar Grand Prix,False,0.0,18.926,22.774,57.252,1.658
+2024,24,Abu Dhabi Grand Prix,False,0.0,26.768,31.805,51.446,1.901
+2025,1,Australian Grand Prix,True,0.3258,15.708,18.942,78.421,3.475
+2025,2,Chinese Grand Prix,False,0.0,27.216,35.817,18.234,2.188
+2025,3,Japanese Grand Prix,False,0.0,14.43,20.514,76.371,1.202
+2025,4,Bahrain Grand Prix,False,0.0,27.053,31.87,45.329,2.106
+2025,5,Saudi Arabian Grand Prix,False,0.0,29.484,37.82,62.725,1.026
+2025,6,Miami Grand Prix,True,0.0336,26.573,38.691,63.02,1.047
+2025,7,Emilia Romagna Grand Prix,False,0.0,23.965,42.664,38.307,3.248
+2025,8,Monaco Grand Prix,False,0.0,22.209,43.317,52.519,0.979
+2025,9,Spanish Grand Prix,False,0.0,29.12,48.543,54.626,1.633
+2025,10,Canadian Grand Prix,True,0.006,24.037,49.253,27.976,1.038
+2025,11,Austrian Grand Prix,False,0.0,30.348,49.166,31.981,1.618
+2025,12,British Grand Prix,True,0.1806,17.917,23.579,78.374,1.483
+2025,13,Belgian Grand Prix,True,0.4574,17.03,24.09,84.444,1.446
+2025,14,Hungarian Grand Prix,False,0.0,22.082,32.73,57.242,2.151
+2025,15,Dutch Grand Prix,False,0.0,20.077,27.964,71.176,2.17
+2025,16,Italian Grand Prix,False,0.0,26.761,43.288,42.604,1.96
+2025,17,Azerbaijan Grand Prix,False,0.0,20.552,26.107,59.833,1.507
+2025,18,Singapore Grand Prix,True,0.0373,29.072,33.852,74.36,1.111
+2025,19,United States Grand Prix,False,0.0,28.268,45.045,22.532,2.082
+2025,20,Mexico City Grand Prix,False,0.0,26.406,50.588,23.235,1.848
+2025,21,São Paulo Grand Prix,False,0.0,17.348,30.693,70.572,1.51
+2025,22,Las Vegas Grand Prix,False,0.0,16.734,19.53,37.766,1.437
+2025,23,Qatar Grand Prix,False,0.0,22.599,28.16,69.047,1.251
+2025,24,Abu Dhabi Grand Prix,False,0.0,26.674,31.062,60.442,1.573
+2026,1,Australian Grand Prix,False,0.0,24.234,36.134,53.973,2.561
+2026,2,Chinese Grand Prix,False,0.0,15.572,22.616,54.998,2.193
