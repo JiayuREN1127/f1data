@@ -1,0 +1,341 @@
+﻿Year,Round,EventName,DriverNumber,DriverAbbr,TeamName,GridPosition,Position,Points,Status,ClassifiedLaps,TotalRaceLaps
+2020,1,Austrian Grand Prix,77,BOT,Mercedes,1.0,1.0,25.0,Finished,68.0,71
+2020,1,Austrian Grand Prix,16,LEC,Ferrari,7.0,2.0,18.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,4,NOR,McLaren,3.0,3.0,16.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,44,HAM,Mercedes,5.0,4.0,12.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,55,SAI,McLaren,8.0,5.0,10.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,11,PER,Racing Point,6.0,6.0,8.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,10,GAS,AlphaTauri,12.0,7.0,6.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,31,OCO,Renault,14.0,8.0,4.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,99,GIO,Alfa Romeo Racing,18.0,9.0,2.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,5,VET,Ferrari,11.0,10.0,1.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,6,LAT,Williams,20.0,11.0,0.0,Finished,67.0,71
+2020,1,Austrian Grand Prix,26,KVY,AlphaTauri,13.0,12.0,0.0,Suspension,65.0,71
+2020,1,Austrian Grand Prix,23,ALB,Red Bull Racing,4.0,13.0,0.0,Electronics,63.0,71
+2020,1,Austrian Grand Prix,7,RAI,Alfa Romeo Racing,19.0,14.0,0.0,Wheel,49.0,71
+2020,1,Austrian Grand Prix,63,RUS,Williams,17.0,15.0,0.0,Fuel pressure,45.0,71
+2020,1,Austrian Grand Prix,8,GRO,Haas F1 Team,15.0,16.0,0.0,Brakes,44.0,71
+2020,1,Austrian Grand Prix,20,MAG,Haas F1 Team,16.0,17.0,0.0,Brakes,20.0,71
+2020,1,Austrian Grand Prix,18,STR,Racing Point,9.0,18.0,0.0,Engine,15.0,71
+2020,1,Austrian Grand Prix,3,RIC,Renault,10.0,19.0,0.0,Overheating,12.0,71
+2020,1,Austrian Grand Prix,33,VER,Red Bull Racing,2.0,20.0,0.0,Electronics,10.0,71
+2020,2,Styrian Grand Prix,44,HAM,Mercedes,1.0,1.0,25.0,Finished,71.0,71
+2020,2,Styrian Grand Prix,77,BOT,Mercedes,4.0,2.0,18.0,Finished,71.0,71
+2020,2,Styrian Grand Prix,33,VER,Red Bull Racing,2.0,3.0,15.0,Finished,71.0,71
+2020,2,Styrian Grand Prix,23,ALB,Red Bull Racing,6.0,4.0,12.0,Finished,71.0,71
+2020,2,Styrian Grand Prix,4,NOR,McLaren,9.0,5.0,10.0,Finished,71.0,71
+2020,2,Styrian Grand Prix,11,PER,Racing Point,17.0,6.0,8.0,Finished,71.0,71
+2020,2,Styrian Grand Prix,18,STR,Racing Point,12.0,7.0,6.0,Finished,71.0,71
+2020,2,Styrian Grand Prix,3,RIC,Renault,8.0,8.0,4.0,Finished,71.0,71
+2020,2,Styrian Grand Prix,55,SAI,McLaren,3.0,9.0,3.0,+1 Lap,70.0,71
+2020,2,Styrian Grand Prix,26,KVY,AlphaTauri,13.0,10.0,1.0,+1 Lap,70.0,71
+2020,2,Styrian Grand Prix,7,RAI,Alfa Romeo Racing,16.0,11.0,0.0,+1 Lap,70.0,71
+2020,2,Styrian Grand Prix,20,MAG,Haas F1 Team,15.0,12.0,0.0,+1 Lap,70.0,71
+2020,2,Styrian Grand Prix,8,GRO,Haas F1 Team,0.0,13.0,0.0,+1 Lap,70.0,71
+2020,2,Styrian Grand Prix,99,GIO,Alfa Romeo Racing,19.0,14.0,0.0,+1 Lap,70.0,71
+2020,2,Styrian Grand Prix,10,GAS,AlphaTauri,7.0,15.0,0.0,+1 Lap,70.0,71
+2020,2,Styrian Grand Prix,63,RUS,Williams,11.0,16.0,0.0,+2 Laps,69.0,71
+2020,2,Styrian Grand Prix,6,LAT,Williams,18.0,17.0,0.0,+2 Laps,69.0,71
+2020,2,Styrian Grand Prix,31,OCO,Renault,5.0,18.0,0.0,Overheating,25.0,71
+2020,2,Styrian Grand Prix,16,LEC,Ferrari,14.0,19.0,0.0,Collision damage,4.0,71
+2020,2,Styrian Grand Prix,5,VET,Ferrari,10.0,20.0,0.0,Collision damage,1.0,71
+2020,3,Hungarian Grand Prix,44,HAM,Mercedes,1.0,1.0,26.0,Finished,70.0,70
+2020,3,Hungarian Grand Prix,33,VER,Red Bull Racing,7.0,2.0,18.0,Finished,70.0,70
+2020,3,Hungarian Grand Prix,77,BOT,Mercedes,2.0,3.0,15.0,Finished,70.0,70
+2020,3,Hungarian Grand Prix,18,STR,Racing Point,3.0,4.0,12.0,Finished,70.0,70
+2020,3,Hungarian Grand Prix,23,ALB,Red Bull Racing,13.0,5.0,10.0,Finished,70.0,70
+2020,3,Hungarian Grand Prix,5,VET,Ferrari,5.0,6.0,8.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,11,PER,Racing Point,4.0,7.0,6.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,3,RIC,Renault,11.0,8.0,4.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,55,SAI,McLaren,9.0,9.0,2.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,20,MAG,Haas F1 Team,0.0,10.0,1.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,16,LEC,Ferrari,6.0,11.0,0.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,26,KVY,AlphaTauri,17.0,12.0,0.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,4,NOR,McLaren,8.0,13.0,0.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,31,OCO,Renault,14.0,14.0,0.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,7,RAI,Alfa Romeo Racing,20.0,15.0,0.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,8,GRO,Haas F1 Team,0.0,16.0,0.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,99,GIO,Alfa Romeo Racing,19.0,17.0,0.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,63,RUS,Williams,12.0,18.0,0.0,+1 Lap,69.0,70
+2020,3,Hungarian Grand Prix,6,LAT,Williams,15.0,19.0,0.0,+5 Laps,65.0,70
+2020,3,Hungarian Grand Prix,10,GAS,AlphaTauri,10.0,20.0,0.0,Engine,15.0,70
+2020,4,British Grand Prix,44,HAM,Mercedes,1.0,1.0,25.0,Finished,52.0,52
+2020,4,British Grand Prix,33,VER,Red Bull Racing,3.0,2.0,19.0,Finished,52.0,52
+2020,4,British Grand Prix,16,LEC,Ferrari,4.0,3.0,15.0,Finished,52.0,52
+2020,4,British Grand Prix,3,RIC,Renault,8.0,4.0,12.0,Finished,52.0,52
+2020,4,British Grand Prix,4,NOR,McLaren,5.0,5.0,10.0,Finished,52.0,52
+2020,4,British Grand Prix,31,OCO,Renault,9.0,6.0,8.0,Finished,52.0,52
+2020,4,British Grand Prix,10,GAS,AlphaTauri,11.0,7.0,6.0,Finished,52.0,52
+2020,4,British Grand Prix,23,ALB,Red Bull Racing,12.0,8.0,4.0,Finished,52.0,52
+2020,4,British Grand Prix,18,STR,Racing Point,6.0,9.0,2.0,Finished,52.0,52
+2020,4,British Grand Prix,5,VET,Ferrari,10.0,10.0,1.0,Finished,52.0,52
+2020,4,British Grand Prix,77,BOT,Mercedes,2.0,11.0,0.0,Finished,52.0,52
+2020,4,British Grand Prix,63,RUS,Williams,20.0,12.0,0.0,Finished,52.0,52
+2020,4,British Grand Prix,55,SAI,McLaren,7.0,13.0,0.0,Finished,52.0,52
+2020,4,British Grand Prix,99,GIO,Alfa Romeo Racing,15.0,14.0,0.0,Finished,52.0,52
+2020,4,British Grand Prix,6,LAT,Williams,18.0,15.0,0.0,Finished,52.0,52
+2020,4,British Grand Prix,8,GRO,Haas F1 Team,17.0,16.0,0.0,Finished,52.0,52
+2020,4,British Grand Prix,7,RAI,Alfa Romeo Racing,16.0,17.0,0.0,+1 Lap,51.0,52
+2020,4,British Grand Prix,26,KVY,AlphaTauri,19.0,18.0,0.0,Accident,12.0,52
+2020,4,British Grand Prix,20,MAG,Haas F1 Team,14.0,19.0,0.0,Collision,2.0,52
+2020,4,British Grand Prix,27,HUL,Racing Point,13.0,20.0,0.0,Power Unit,1.0,52
+2020,5,70th Anniversary Grand Prix,33,VER,Red Bull Racing,4.0,1.0,25.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,44,HAM,Mercedes,2.0,2.0,19.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,77,BOT,Mercedes,1.0,3.0,15.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,16,LEC,Ferrari,8.0,4.0,12.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,23,ALB,Red Bull Racing,9.0,5.0,10.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,18,STR,Racing Point,6.0,6.0,8.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,27,HUL,Racing Point,3.0,7.0,6.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,31,OCO,Renault,14.0,8.0,4.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,4,NOR,McLaren,10.0,9.0,2.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,26,KVY,AlphaTauri,16.0,10.0,1.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,10,GAS,AlphaTauri,7.0,11.0,0.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,5,VET,Ferrari,11.0,12.0,0.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,55,SAI,McLaren,12.0,13.0,0.0,Finished,52.0,52
+2020,5,70th Anniversary Grand Prix,3,RIC,Renault,5.0,14.0,0.0,+1 Lap,51.0,52
+2020,5,70th Anniversary Grand Prix,7,RAI,Alfa Romeo Racing,20.0,15.0,0.0,+1 Lap,51.0,52
+2020,5,70th Anniversary Grand Prix,8,GRO,Haas F1 Team,13.0,16.0,0.0,+1 Lap,51.0,52
+2020,5,70th Anniversary Grand Prix,99,GIO,Alfa Romeo Racing,19.0,17.0,0.0,+1 Lap,51.0,52
+2020,5,70th Anniversary Grand Prix,63,RUS,Williams,15.0,18.0,0.0,+1 Lap,51.0,52
+2020,5,70th Anniversary Grand Prix,6,LAT,Williams,18.0,19.0,0.0,+1 Lap,51.0,52
+2020,5,70th Anniversary Grand Prix,20,MAG,Haas F1 Team,17.0,20.0,0.0,Retired,43.0,52
+2020,6,Spanish Grand Prix,44,HAM,Mercedes,1.0,1.0,25.0,Finished,66.0,66
+2020,6,Spanish Grand Prix,33,VER,Red Bull Racing,3.0,2.0,18.0,Finished,66.0,66
+2020,6,Spanish Grand Prix,77,BOT,Mercedes,2.0,3.0,16.0,Finished,66.0,66
+2020,6,Spanish Grand Prix,18,STR,Racing Point,5.0,4.0,12.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,11,PER,Racing Point,4.0,5.0,10.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,55,SAI,McLaren,7.0,6.0,8.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,5,VET,Ferrari,11.0,7.0,6.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,23,ALB,Red Bull Racing,6.0,8.0,4.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,10,GAS,AlphaTauri,10.0,9.0,2.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,4,NOR,McLaren,8.0,10.0,1.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,3,RIC,Renault,13.0,11.0,0.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,26,KVY,AlphaTauri,12.0,12.0,0.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,31,OCO,Renault,15.0,13.0,0.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,7,RAI,Alfa Romeo Racing,14.0,14.0,0.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,20,MAG,Haas F1 Team,16.0,15.0,0.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,99,GIO,Alfa Romeo Racing,20.0,16.0,0.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,63,RUS,Williams,18.0,17.0,0.0,+1 Lap,65.0,66
+2020,6,Spanish Grand Prix,6,LAT,Williams,19.0,18.0,0.0,+2 Laps,64.0,66
+2020,6,Spanish Grand Prix,8,GRO,Haas F1 Team,17.0,19.0,0.0,+2 Laps,64.0,66
+2020,6,Spanish Grand Prix,16,LEC,Ferrari,9.0,20.0,0.0,Electronics,38.0,66
+2020,7,Belgian Grand Prix,44,HAM,Mercedes,1.0,1.0,25.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,77,BOT,Mercedes,2.0,2.0,18.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,33,VER,Red Bull Racing,3.0,3.0,15.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,3,RIC,Renault,4.0,4.0,13.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,31,OCO,Renault,6.0,5.0,10.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,23,ALB,Red Bull Racing,5.0,6.0,8.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,4,NOR,McLaren,10.0,7.0,6.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,10,GAS,AlphaTauri,12.0,8.0,4.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,18,STR,Racing Point,9.0,9.0,2.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,11,PER,Racing Point,8.0,10.0,1.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,26,KVY,AlphaTauri,11.0,11.0,0.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,7,RAI,Alfa Romeo Racing,16.0,12.0,0.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,5,VET,Ferrari,14.0,13.0,0.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,16,LEC,Ferrari,13.0,14.0,0.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,8,GRO,Haas F1 Team,17.0,15.0,0.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,6,LAT,Williams,19.0,16.0,0.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,20,MAG,Haas F1 Team,20.0,17.0,0.0,Finished,44.0,44
+2020,7,Belgian Grand Prix,99,GIO,Alfa Romeo Racing,18.0,18.0,0.0,Accident,10.0,44
+2020,7,Belgian Grand Prix,63,RUS,Williams,15.0,19.0,0.0,Debris,10.0,44
+2020,7,Belgian Grand Prix,55,SAI,McLaren,7.0,20.0,0.0,Exhaust,1.0,44
+2020,8,Italian Grand Prix,10,GAS,AlphaTauri,10.0,1.0,25.0,Finished,53.0,53
+2020,8,Italian Grand Prix,55,SAI,McLaren,3.0,2.0,18.0,Finished,53.0,53
+2020,8,Italian Grand Prix,18,STR,Racing Point,8.0,3.0,15.0,Finished,53.0,53
+2020,8,Italian Grand Prix,4,NOR,McLaren,6.0,4.0,12.0,Finished,53.0,53
+2020,8,Italian Grand Prix,77,BOT,Mercedes,2.0,5.0,10.0,Finished,53.0,53
+2020,8,Italian Grand Prix,3,RIC,Renault,7.0,6.0,8.0,Finished,53.0,53
+2020,8,Italian Grand Prix,44,HAM,Mercedes,1.0,7.0,7.0,Finished,53.0,53
+2020,8,Italian Grand Prix,31,OCO,Renault,12.0,8.0,4.0,Finished,53.0,53
+2020,8,Italian Grand Prix,26,KVY,AlphaTauri,11.0,9.0,2.0,Finished,53.0,53
+2020,8,Italian Grand Prix,11,PER,Racing Point,4.0,10.0,1.0,Finished,53.0,53
+2020,8,Italian Grand Prix,6,LAT,Williams,20.0,11.0,0.0,Finished,53.0,53
+2020,8,Italian Grand Prix,8,GRO,Haas F1 Team,16.0,12.0,0.0,Finished,53.0,53
+2020,8,Italian Grand Prix,7,RAI,Alfa Romeo Racing,14.0,13.0,0.0,Finished,53.0,53
+2020,8,Italian Grand Prix,63,RUS,Williams,19.0,14.0,0.0,Finished,53.0,53
+2020,8,Italian Grand Prix,23,ALB,Red Bull Racing,9.0,15.0,0.0,Finished,53.0,53
+2020,8,Italian Grand Prix,99,GIO,Alfa Romeo Racing,18.0,16.0,0.0,Finished,53.0,53
+2020,8,Italian Grand Prix,33,VER,Red Bull Racing,5.0,17.0,0.0,Power Unit,30.0,53
+2020,8,Italian Grand Prix,16,LEC,Ferrari,13.0,18.0,0.0,Accident,24.0,53
+2020,8,Italian Grand Prix,20,MAG,Haas F1 Team,15.0,19.0,0.0,Power Unit,18.0,53
+2020,8,Italian Grand Prix,5,VET,Ferrari,17.0,20.0,0.0,Brakes,6.0,53
+2020,9,Tuscan Grand Prix,44,HAM,Mercedes,1.0,1.0,26.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,77,BOT,Mercedes,2.0,2.0,18.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,23,ALB,Red Bull Racing,4.0,3.0,15.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,3,RIC,Renault,8.0,4.0,12.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,11,PER,Racing Point,7.0,5.0,10.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,4,NOR,McLaren,11.0,6.0,8.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,26,KVY,AlphaTauri,12.0,7.0,6.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,16,LEC,Ferrari,5.0,8.0,4.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,7,RAI,Alfa Romeo Racing,13.0,9.0,2.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,5,VET,Ferrari,14.0,10.0,1.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,63,RUS,Williams,18.0,11.0,0.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,8,GRO,Haas F1 Team,15.0,12.0,0.0,Finished,59.0,59
+2020,9,Tuscan Grand Prix,18,STR,Racing Point,6.0,13.0,0.0,Puncture,43.0,59
+2020,9,Tuscan Grand Prix,31,OCO,Renault,10.0,14.0,0.0,Brakes,8.0,59
+2020,9,Tuscan Grand Prix,6,LAT,Williams,19.0,15.0,0.0,Collision,7.0,59
+2020,9,Tuscan Grand Prix,20,MAG,Haas F1 Team,20.0,16.0,0.0,Collision,6.0,59
+2020,9,Tuscan Grand Prix,99,GIO,Alfa Romeo Racing,17.0,17.0,0.0,Collision,6.0,59
+2020,9,Tuscan Grand Prix,55,SAI,McLaren,9.0,18.0,0.0,Collision,6.0,59
+2020,9,Tuscan Grand Prix,33,VER,Red Bull Racing,3.0,19.0,0.0,Collision,1.0,59
+2020,9,Tuscan Grand Prix,10,GAS,AlphaTauri,16.0,20.0,0.0,Collision,1.0,59
+2020,10,Russian Grand Prix,77,BOT,Mercedes,3.0,1.0,26.0,Finished,53.0,53
+2020,10,Russian Grand Prix,33,VER,Red Bull Racing,2.0,2.0,18.0,Finished,53.0,53
+2020,10,Russian Grand Prix,44,HAM,Mercedes,1.0,3.0,15.0,Finished,53.0,53
+2020,10,Russian Grand Prix,11,PER,Racing Point,4.0,4.0,12.0,Finished,53.0,53
+2020,10,Russian Grand Prix,3,RIC,Renault,5.0,5.0,10.0,Finished,53.0,53
+2020,10,Russian Grand Prix,16,LEC,Ferrari,10.0,6.0,8.0,Finished,53.0,53
+2020,10,Russian Grand Prix,31,OCO,Renault,7.0,7.0,6.0,Finished,53.0,53
+2020,10,Russian Grand Prix,26,KVY,AlphaTauri,11.0,8.0,4.0,Finished,53.0,53
+2020,10,Russian Grand Prix,10,GAS,AlphaTauri,9.0,9.0,2.0,Finished,53.0,53
+2020,10,Russian Grand Prix,23,ALB,Red Bull Racing,15.0,10.0,1.0,Finished,53.0,53
+2020,10,Russian Grand Prix,99,GIO,Alfa Romeo Racing,17.0,11.0,0.0,+1 Lap,52.0,53
+2020,10,Russian Grand Prix,20,MAG,Haas F1 Team,18.0,12.0,0.0,+1 Lap,52.0,53
+2020,10,Russian Grand Prix,5,VET,Ferrari,14.0,13.0,0.0,+1 Lap,52.0,53
+2020,10,Russian Grand Prix,7,RAI,Alfa Romeo Racing,19.0,14.0,0.0,+1 Lap,52.0,53
+2020,10,Russian Grand Prix,4,NOR,McLaren,8.0,15.0,0.0,+1 Lap,52.0,53
+2020,10,Russian Grand Prix,6,LAT,Williams,20.0,16.0,0.0,+1 Lap,52.0,53
+2020,10,Russian Grand Prix,8,GRO,Haas F1 Team,16.0,17.0,0.0,+1 Lap,52.0,53
+2020,10,Russian Grand Prix,63,RUS,Williams,13.0,18.0,0.0,+1 Lap,52.0,53
+2020,10,Russian Grand Prix,55,SAI,McLaren,6.0,19.0,0.0,Accident,1.0,53
+2020,10,Russian Grand Prix,18,STR,Racing Point,12.0,20.0,0.0,Collision,1.0,53
+2020,11,Eifel Grand Prix,44,HAM,Mercedes,2.0,1.0,25.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,33,VER,Red Bull Racing,3.0,2.0,19.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,3,RIC,Renault,6.0,3.0,15.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,11,PER,Racing Point,9.0,4.0,12.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,55,SAI,McLaren,10.0,5.0,10.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,10,GAS,AlphaTauri,12.0,6.0,8.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,16,LEC,Ferrari,4.0,7.0,6.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,27,HUL,Racing Point,20.0,8.0,4.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,8,GRO,Haas F1 Team,16.0,9.0,2.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,99,GIO,Alfa Romeo Racing,14.0,10.0,1.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,5,VET,Ferrari,11.0,11.0,0.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,7,RAI,Alfa Romeo Racing,19.0,12.0,0.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,20,MAG,Haas F1 Team,15.0,13.0,0.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,6,LAT,Williams,18.0,14.0,0.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,26,KVY,AlphaTauri,13.0,15.0,0.0,Finished,60.0,60
+2020,11,Eifel Grand Prix,4,NOR,McLaren,8.0,16.0,0.0,Power Unit,43.0,60
+2020,11,Eifel Grand Prix,23,ALB,Red Bull Racing,5.0,17.0,0.0,Radiator,23.0,60
+2020,11,Eifel Grand Prix,31,OCO,Renault,7.0,18.0,0.0,Gearbox,22.0,60
+2020,11,Eifel Grand Prix,77,BOT,Mercedes,1.0,19.0,0.0,Power Unit,18.0,60
+2020,11,Eifel Grand Prix,63,RUS,Williams,17.0,20.0,0.0,Collision,13.0,60
+2020,12,Portuguese Grand Prix,44,HAM,Mercedes,1.0,1.0,26.0,Finished,66.0,66
+2020,12,Portuguese Grand Prix,77,BOT,Mercedes,2.0,2.0,18.0,Finished,66.0,66
+2020,12,Portuguese Grand Prix,33,VER,Red Bull Racing,3.0,3.0,15.0,Finished,66.0,66
+2020,12,Portuguese Grand Prix,16,LEC,Ferrari,4.0,4.0,12.0,Finished,66.0,66
+2020,12,Portuguese Grand Prix,10,GAS,AlphaTauri,9.0,5.0,10.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,55,SAI,McLaren,7.0,6.0,8.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,11,PER,Racing Point,5.0,7.0,6.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,31,OCO,Renault,11.0,8.0,4.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,3,RIC,Renault,10.0,9.0,2.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,5,VET,Ferrari,15.0,10.0,1.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,7,RAI,Alfa Romeo Racing,16.0,11.0,0.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,23,ALB,Red Bull Racing,6.0,12.0,0.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,4,NOR,McLaren,8.0,13.0,0.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,63,RUS,Williams,14.0,14.0,0.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,99,GIO,Alfa Romeo Racing,17.0,15.0,0.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,20,MAG,Haas F1 Team,19.0,16.0,0.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,8,GRO,Haas F1 Team,18.0,17.0,0.0,+1 Lap,65.0,66
+2020,12,Portuguese Grand Prix,6,LAT,Williams,20.0,18.0,0.0,+2 Laps,64.0,66
+2020,12,Portuguese Grand Prix,26,KVY,AlphaTauri,13.0,19.0,0.0,+2 Laps,64.0,66
+2020,12,Portuguese Grand Prix,18,STR,Racing Point,12.0,20.0,0.0,Collision damage,51.0,66
+2020,13,Emilia Romagna Grand Prix,44,HAM,Mercedes,2.0,1.0,26.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,77,BOT,Mercedes,1.0,2.0,18.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,3,RIC,Renault,5.0,3.0,15.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,26,KVY,AlphaTauri,8.0,4.0,12.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,16,LEC,Ferrari,7.0,5.0,10.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,11,PER,Racing Point,11.0,6.0,8.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,55,SAI,McLaren,10.0,7.0,6.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,4,NOR,McLaren,9.0,8.0,4.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,7,RAI,Alfa Romeo Racing,18.0,9.0,2.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,99,GIO,Alfa Romeo Racing,20.0,10.0,1.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,6,LAT,Williams,19.0,11.0,0.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,5,VET,Ferrari,14.0,12.0,0.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,18,STR,Racing Point,15.0,13.0,0.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,8,GRO,Haas F1 Team,16.0,14.0,0.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,23,ALB,Red Bull Racing,6.0,15.0,0.0,Finished,63.0,63
+2020,13,Emilia Romagna Grand Prix,63,RUS,Williams,13.0,16.0,0.0,Accident,52.0,63
+2020,13,Emilia Romagna Grand Prix,33,VER,Red Bull Racing,3.0,17.0,0.0,Puncture,51.0,63
+2020,13,Emilia Romagna Grand Prix,20,MAG,Haas F1 Team,17.0,18.0,0.0,Illness,47.0,63
+2020,13,Emilia Romagna Grand Prix,31,OCO,Renault,12.0,19.0,0.0,Gearbox,28.0,63
+2020,13,Emilia Romagna Grand Prix,10,GAS,AlphaTauri,4.0,20.0,0.0,Water pressure,8.0,63
+2020,14,Turkish Grand Prix,44,HAM,Mercedes,6.0,1.0,25.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,11,PER,Racing Point,3.0,2.0,18.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,5,VET,Ferrari,11.0,3.0,15.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,16,LEC,Ferrari,12.0,4.0,12.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,55,SAI,McLaren,15.0,5.0,10.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,33,VER,Red Bull Racing,2.0,6.0,8.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,23,ALB,Red Bull Racing,4.0,7.0,6.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,4,NOR,McLaren,14.0,8.0,5.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,18,STR,Racing Point,1.0,9.0,2.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,3,RIC,Renault,5.0,10.0,1.0,Finished,58.0,58
+2020,14,Turkish Grand Prix,31,OCO,Renault,7.0,11.0,0.0,+1 Lap,57.0,58
+2020,14,Turkish Grand Prix,26,KVY,AlphaTauri,16.0,12.0,0.0,+1 Lap,57.0,58
+2020,14,Turkish Grand Prix,10,GAS,AlphaTauri,19.0,13.0,0.0,+1 Lap,57.0,58
+2020,14,Turkish Grand Prix,77,BOT,Mercedes,9.0,14.0,0.0,+1 Lap,57.0,58
+2020,14,Turkish Grand Prix,7,RAI,Alfa Romeo Racing,8.0,15.0,0.0,+1 Lap,57.0,58
+2020,14,Turkish Grand Prix,63,RUS,Williams,0.0,16.0,0.0,+1 Lap,57.0,58
+2020,14,Turkish Grand Prix,20,MAG,Haas F1 Team,13.0,17.0,0.0,Withdrew,55.0,58
+2020,14,Turkish Grand Prix,8,GRO,Haas F1 Team,17.0,18.0,0.0,Collision damage,49.0,58
+2020,14,Turkish Grand Prix,6,LAT,Williams,0.0,19.0,0.0,Collision damage,39.0,58
+2020,14,Turkish Grand Prix,99,GIO,Alfa Romeo Racing,10.0,20.0,0.0,Gearbox,12.0,58
+2020,15,Bahrain Grand Prix,44,HAM,Mercedes,1.0,1.0,25.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,33,VER,Red Bull Racing,3.0,2.0,19.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,23,ALB,Red Bull Racing,4.0,3.0,15.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,4,NOR,McLaren,9.0,4.0,12.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,55,SAI,McLaren,15.0,5.0,10.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,10,GAS,AlphaTauri,8.0,6.0,8.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,3,RIC,Renault,6.0,7.0,6.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,77,BOT,Mercedes,2.0,8.0,4.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,31,OCO,Renault,7.0,9.0,2.0,Finished,57.0,57
+2020,15,Bahrain Grand Prix,16,LEC,Ferrari,12.0,10.0,1.0,+1 Lap,56.0,57
+2020,15,Bahrain Grand Prix,26,KVY,AlphaTauri,10.0,11.0,0.0,+1 Lap,56.0,57
+2020,15,Bahrain Grand Prix,63,RUS,Williams,14.0,12.0,0.0,+1 Lap,56.0,57
+2020,15,Bahrain Grand Prix,5,VET,Ferrari,11.0,13.0,0.0,+1 Lap,56.0,57
+2020,15,Bahrain Grand Prix,6,LAT,Williams,20.0,14.0,0.0,+1 Lap,56.0,57
+2020,15,Bahrain Grand Prix,7,RAI,Alfa Romeo Racing,17.0,15.0,0.0,+1 Lap,56.0,57
+2020,15,Bahrain Grand Prix,99,GIO,Alfa Romeo Racing,16.0,16.0,0.0,+1 Lap,56.0,57
+2020,15,Bahrain Grand Prix,20,MAG,Haas F1 Team,18.0,17.0,0.0,+1 Lap,56.0,57
+2020,15,Bahrain Grand Prix,11,PER,Racing Point,5.0,18.0,0.0,Engine,54.0,57
+2020,15,Bahrain Grand Prix,18,STR,Racing Point,13.0,19.0,0.0,Collision,3.0,57
+2020,15,Bahrain Grand Prix,8,GRO,Haas F1 Team,19.0,20.0,0.0,Collision,1.0,57
+2020,16,Sakhir Grand Prix,11,PER,Racing Point,5.0,1.0,25.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,31,OCO,Renault,11.0,2.0,18.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,18,STR,Racing Point,10.0,3.0,15.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,55,SAI,McLaren,8.0,4.0,12.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,3,RIC,Renault,7.0,5.0,10.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,23,ALB,Red Bull Racing,12.0,6.0,8.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,26,KVY,AlphaTauri,6.0,7.0,6.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,77,BOT,Mercedes,1.0,8.0,4.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,63,RUS,Mercedes,2.0,9.0,3.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,4,NOR,McLaren,19.0,10.0,1.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,10,GAS,AlphaTauri,9.0,11.0,0.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,5,VET,Ferrari,13.0,12.0,0.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,99,GIO,Alfa Romeo Racing,14.0,13.0,0.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,7,RAI,Alfa Romeo Racing,18.0,14.0,0.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,20,MAG,Haas F1 Team,15.0,15.0,0.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,89,AIT,Williams,17.0,16.0,0.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,51,FIT,Haas F1 Team,20.0,17.0,0.0,Finished,87.0,87
+2020,16,Sakhir Grand Prix,6,LAT,Williams,16.0,18.0,0.0,Engine,53.0,87
+2020,16,Sakhir Grand Prix,33,VER,Red Bull Racing,3.0,19.0,0.0,Accident,1.0,87
+2020,16,Sakhir Grand Prix,16,LEC,Ferrari,4.0,20.0,0.0,Collision,1.0,87
+2020,17,Abu Dhabi Grand Prix,33,VER,Red Bull Racing,1.0,1.0,25.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,77,BOT,Mercedes,2.0,2.0,18.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,44,HAM,Mercedes,3.0,3.0,15.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,23,ALB,Red Bull Racing,5.0,4.0,12.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,4,NOR,McLaren,4.0,5.0,10.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,55,SAI,McLaren,6.0,6.0,8.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,3,RIC,Renault,11.0,7.0,7.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,10,GAS,AlphaTauri,9.0,8.0,4.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,31,OCO,Renault,10.0,9.0,2.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,18,STR,Racing Point,8.0,10.0,1.0,Finished,55.0,55
+2020,17,Abu Dhabi Grand Prix,26,KVY,AlphaTauri,7.0,11.0,0.0,+1 Lap,54.0,55
+2020,17,Abu Dhabi Grand Prix,7,RAI,Alfa Romeo Racing,15.0,12.0,0.0,+1 Lap,54.0,55
+2020,17,Abu Dhabi Grand Prix,16,LEC,Ferrari,12.0,13.0,0.0,+1 Lap,54.0,55
+2020,17,Abu Dhabi Grand Prix,5,VET,Ferrari,13.0,14.0,0.0,+1 Lap,54.0,55
+2020,17,Abu Dhabi Grand Prix,63,RUS,Williams,16.0,15.0,0.0,+1 Lap,54.0,55
+2020,17,Abu Dhabi Grand Prix,99,GIO,Alfa Romeo Racing,14.0,16.0,0.0,+1 Lap,54.0,55
+2020,17,Abu Dhabi Grand Prix,6,LAT,Williams,18.0,17.0,0.0,+1 Lap,54.0,55
+2020,17,Abu Dhabi Grand Prix,20,MAG,Haas F1 Team,20.0,18.0,0.0,+1 Lap,54.0,55
+2020,17,Abu Dhabi Grand Prix,51,FIT,Haas F1 Team,17.0,19.0,0.0,+2 Laps,53.0,55
+2020,17,Abu Dhabi Grand Prix,11,PER,Racing Point,19.0,20.0,0.0,Transmission,9.0,55

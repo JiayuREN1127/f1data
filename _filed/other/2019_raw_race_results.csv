@@ -1,0 +1,421 @@
+﻿Year,Round,EventName,DriverNumber,DriverAbbr,TeamName,GridPosition,Position,Points,Status,ClassifiedLaps,TotalRaceLaps
+2019,1,Australian Grand Prix,77,BOT,Mercedes,2.0,1.0,26.0,Finished,58.0,58
+2019,1,Australian Grand Prix,44,HAM,Mercedes,1.0,2.0,18.0,Finished,58.0,58
+2019,1,Australian Grand Prix,33,VER,Red Bull Racing,4.0,3.0,15.0,Finished,58.0,58
+2019,1,Australian Grand Prix,5,VET,Ferrari,3.0,4.0,12.0,Finished,58.0,58
+2019,1,Australian Grand Prix,16,LEC,Ferrari,5.0,5.0,10.0,Finished,58.0,58
+2019,1,Australian Grand Prix,20,MAG,Haas F1 Team,7.0,6.0,8.0,Finished,58.0,58
+2019,1,Australian Grand Prix,27,HUL,Renault,11.0,7.0,6.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,7,RAI,Alfa Romeo Racing,9.0,8.0,4.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,18,STR,Racing Point,16.0,9.0,2.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,26,KVY,Toro Rosso,15.0,10.0,1.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,10,GAS,Red Bull Racing,17.0,11.0,0.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,4,NOR,McLaren,8.0,12.0,0.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,11,PER,Racing Point,10.0,13.0,0.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,23,ALB,Toro Rosso,13.0,14.0,0.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,99,GIO,Alfa Romeo Racing,14.0,15.0,0.0,+1 Lap,57.0,58
+2019,1,Australian Grand Prix,63,RUS,Williams,19.0,16.0,0.0,+2 Laps,56.0,58
+2019,1,Australian Grand Prix,88,KUB,Williams,20.0,17.0,0.0,+3 Laps,55.0,58
+2019,1,Australian Grand Prix,8,GRO,Haas F1 Team,6.0,18.0,0.0,Wheel,30.0,58
+2019,1,Australian Grand Prix,3,RIC,Renault,12.0,19.0,0.0,Damage,29.0,58
+2019,1,Australian Grand Prix,55,SAI,McLaren,18.0,20.0,0.0,Engine,10.0,58
+2019,2,Bahrain Grand Prix,44,HAM,Mercedes,3.0,1.0,25.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,77,BOT,Mercedes,4.0,2.0,18.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,16,LEC,Ferrari,1.0,3.0,16.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,33,VER,Red Bull Racing,5.0,4.0,12.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,5,VET,Ferrari,2.0,5.0,10.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,4,NOR,McLaren,9.0,6.0,8.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,7,RAI,Alfa Romeo Racing,8.0,7.0,6.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,10,GAS,Red Bull Racing,13.0,8.0,4.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,23,ALB,Toro Rosso,12.0,9.0,2.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,11,PER,Racing Point,14.0,10.0,1.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,99,GIO,Alfa Romeo Racing,16.0,11.0,0.0,Finished,57.0,57
+2019,2,Bahrain Grand Prix,26,KVY,Toro Rosso,15.0,12.0,0.0,+1 Lap,56.0,57
+2019,2,Bahrain Grand Prix,20,MAG,Haas F1 Team,6.0,13.0,0.0,+1 Lap,56.0,57
+2019,2,Bahrain Grand Prix,18,STR,Racing Point,18.0,14.0,0.0,+1 Lap,56.0,57
+2019,2,Bahrain Grand Prix,63,RUS,Williams,19.0,15.0,0.0,+1 Lap,56.0,57
+2019,2,Bahrain Grand Prix,88,KUB,Williams,20.0,16.0,0.0,+2 Laps,55.0,57
+2019,2,Bahrain Grand Prix,27,HUL,Renault,17.0,17.0,0.0,Engine,54.0,57
+2019,2,Bahrain Grand Prix,3,RIC,Renault,10.0,18.0,0.0,Out of fuel,54.0,57
+2019,2,Bahrain Grand Prix,55,SAI,McLaren,7.0,19.0,0.0,Collision damage,53.0,57
+2019,2,Bahrain Grand Prix,8,GRO,Haas F1 Team,11.0,20.0,0.0,Retired,16.0,57
+2019,3,Chinese Grand Prix,44,HAM,Mercedes,2.0,1.0,25.0,Finished,56.0,56
+2019,3,Chinese Grand Prix,77,BOT,Mercedes,1.0,2.0,18.0,Finished,56.0,56
+2019,3,Chinese Grand Prix,5,VET,Ferrari,3.0,3.0,15.0,Finished,56.0,56
+2019,3,Chinese Grand Prix,33,VER,Red Bull Racing,5.0,4.0,12.0,Finished,56.0,56
+2019,3,Chinese Grand Prix,16,LEC,Ferrari,4.0,5.0,10.0,Finished,56.0,56
+2019,3,Chinese Grand Prix,10,GAS,Red Bull Racing,6.0,6.0,9.0,Finished,56.0,56
+2019,3,Chinese Grand Prix,3,RIC,Renault,7.0,7.0,6.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,11,PER,Racing Point,12.0,8.0,4.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,7,RAI,Alfa Romeo Racing,13.0,9.0,2.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,23,ALB,Toro Rosso,0.0,10.0,1.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,8,GRO,Haas F1 Team,10.0,11.0,0.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,18,STR,Racing Point,16.0,12.0,0.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,20,MAG,Haas F1 Team,9.0,13.0,0.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,55,SAI,McLaren,14.0,14.0,0.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,99,GIO,Alfa Romeo Racing,19.0,15.0,0.0,+1 Lap,55.0,56
+2019,3,Chinese Grand Prix,63,RUS,Williams,17.0,16.0,0.0,+2 Laps,54.0,56
+2019,3,Chinese Grand Prix,88,KUB,Williams,18.0,17.0,0.0,+2 Laps,54.0,56
+2019,3,Chinese Grand Prix,4,NOR,McLaren,15.0,18.0,0.0,Collision,50.0,56
+2019,3,Chinese Grand Prix,26,KVY,Toro Rosso,11.0,19.0,0.0,Collision,41.0,56
+2019,3,Chinese Grand Prix,27,HUL,Renault,8.0,20.0,0.0,Power Unit,16.0,56
+2019,4,Azerbaijan Grand Prix,77,BOT,Mercedes,1.0,1.0,25.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,44,HAM,Mercedes,2.0,2.0,18.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,5,VET,Ferrari,3.0,3.0,15.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,33,VER,Red Bull Racing,4.0,4.0,12.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,16,LEC,Ferrari,8.0,5.0,11.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,11,PER,Racing Point,5.0,6.0,8.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,55,SAI,McLaren,9.0,7.0,6.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,4,NOR,McLaren,7.0,8.0,4.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,18,STR,Racing Point,13.0,9.0,2.0,Finished,51.0,51
+2019,4,Azerbaijan Grand Prix,7,RAI,Alfa Romeo Racing,0.0,10.0,1.0,+1 Lap,50.0,51
+2019,4,Azerbaijan Grand Prix,23,ALB,Toro Rosso,11.0,11.0,0.0,+1 Lap,50.0,51
+2019,4,Azerbaijan Grand Prix,99,GIO,Alfa Romeo Racing,17.0,12.0,0.0,+1 Lap,50.0,51
+2019,4,Azerbaijan Grand Prix,20,MAG,Haas F1 Team,12.0,13.0,0.0,+1 Lap,50.0,51
+2019,4,Azerbaijan Grand Prix,27,HUL,Renault,15.0,14.0,0.0,+1 Lap,50.0,51
+2019,4,Azerbaijan Grand Prix,63,RUS,Williams,16.0,15.0,0.0,+2 Laps,49.0,51
+2019,4,Azerbaijan Grand Prix,88,KUB,Williams,0.0,16.0,0.0,+2 Laps,49.0,51
+2019,4,Azerbaijan Grand Prix,10,GAS,Red Bull Racing,0.0,17.0,0.0,Transmission,39.0,51
+2019,4,Azerbaijan Grand Prix,8,GRO,Haas F1 Team,14.0,18.0,0.0,Brakes,38.0,51
+2019,4,Azerbaijan Grand Prix,26,KVY,Toro Rosso,6.0,19.0,0.0,Collision,33.0,51
+2019,4,Azerbaijan Grand Prix,3,RIC,Renault,10.0,20.0,0.0,Collision,31.0,51
+2019,5,Spanish Grand Prix,44,HAM,Mercedes,2.0,1.0,26.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,77,BOT,Mercedes,1.0,2.0,18.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,33,VER,Red Bull Racing,4.0,3.0,15.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,5,VET,Ferrari,3.0,4.0,12.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,16,LEC,Ferrari,5.0,5.0,10.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,10,GAS,Red Bull Racing,6.0,6.0,8.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,20,MAG,Haas F1 Team,8.0,7.0,6.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,55,SAI,McLaren,12.0,8.0,4.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,26,KVY,Toro Rosso,9.0,9.0,2.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,8,GRO,Haas F1 Team,7.0,10.0,1.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,23,ALB,Toro Rosso,11.0,11.0,0.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,3,RIC,Renault,13.0,12.0,0.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,27,HUL,Renault,0.0,13.0,0.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,7,RAI,Alfa Romeo Racing,14.0,14.0,0.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,11,PER,Racing Point,15.0,15.0,0.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,99,GIO,Alfa Romeo Racing,18.0,16.0,0.0,Finished,66.0,66
+2019,5,Spanish Grand Prix,63,RUS,Williams,19.0,17.0,0.0,+1 Lap,65.0,66
+2019,5,Spanish Grand Prix,88,KUB,Williams,17.0,18.0,0.0,+1 Lap,65.0,66
+2019,5,Spanish Grand Prix,18,STR,Racing Point,16.0,19.0,0.0,Collision,45.0,66
+2019,5,Spanish Grand Prix,4,NOR,McLaren,10.0,20.0,0.0,Collision,45.0,66
+2019,6,Monaco Grand Prix,44,HAM,Mercedes,1.0,1.0,25.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,5,VET,Ferrari,4.0,2.0,18.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,77,BOT,Mercedes,2.0,3.0,15.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,33,VER,Red Bull Racing,3.0,4.0,12.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,10,GAS,Red Bull Racing,8.0,5.0,11.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,55,SAI,McLaren,9.0,6.0,8.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,26,KVY,Toro Rosso,7.0,7.0,6.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,23,ALB,Toro Rosso,10.0,8.0,4.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,3,RIC,Renault,6.0,9.0,2.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,8,GRO,Haas F1 Team,13.0,10.0,1.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,4,NOR,McLaren,12.0,11.0,0.0,Finished,78.0,78
+2019,6,Monaco Grand Prix,11,PER,Racing Point,16.0,12.0,0.0,+1 Lap,77.0,78
+2019,6,Monaco Grand Prix,27,HUL,Renault,11.0,13.0,0.0,+1 Lap,77.0,78
+2019,6,Monaco Grand Prix,20,MAG,Haas F1 Team,5.0,14.0,0.0,+1 Lap,77.0,78
+2019,6,Monaco Grand Prix,63,RUS,Williams,19.0,15.0,0.0,+1 Lap,77.0,78
+2019,6,Monaco Grand Prix,18,STR,Racing Point,17.0,16.0,0.0,+1 Lap,77.0,78
+2019,6,Monaco Grand Prix,7,RAI,Alfa Romeo Racing,14.0,17.0,0.0,+1 Lap,77.0,78
+2019,6,Monaco Grand Prix,88,KUB,Williams,20.0,18.0,0.0,+1 Lap,77.0,78
+2019,6,Monaco Grand Prix,99,GIO,Alfa Romeo Racing,18.0,19.0,0.0,+2 Laps,76.0,78
+2019,6,Monaco Grand Prix,16,LEC,Ferrari,15.0,20.0,0.0,Collision,17.0,78
+2019,7,Canadian Grand Prix,44,HAM,Mercedes,2.0,1.0,25.0,Finished,70.0,70
+2019,7,Canadian Grand Prix,5,VET,Ferrari,1.0,2.0,18.0,Finished,70.0,70
+2019,7,Canadian Grand Prix,16,LEC,Ferrari,3.0,3.0,15.0,Finished,70.0,70
+2019,7,Canadian Grand Prix,77,BOT,Mercedes,6.0,4.0,13.0,Finished,70.0,70
+2019,7,Canadian Grand Prix,33,VER,Red Bull Racing,9.0,5.0,10.0,Finished,70.0,70
+2019,7,Canadian Grand Prix,3,RIC,Renault,4.0,6.0,8.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,27,HUL,Renault,7.0,7.0,6.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,10,GAS,Red Bull Racing,5.0,8.0,4.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,18,STR,Racing Point,17.0,9.0,2.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,26,KVY,Toro Rosso,10.0,10.0,1.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,55,SAI,McLaren,11.0,11.0,0.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,11,PER,Racing Point,15.0,12.0,0.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,99,GIO,Alfa Romeo Racing,12.0,13.0,0.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,8,GRO,Haas F1 Team,14.0,14.0,0.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,7,RAI,Alfa Romeo Racing,16.0,15.0,0.0,+1 Lap,69.0,70
+2019,7,Canadian Grand Prix,63,RUS,Williams,18.0,16.0,0.0,+2 Laps,68.0,70
+2019,7,Canadian Grand Prix,20,MAG,Haas F1 Team,0.0,17.0,0.0,+2 Laps,68.0,70
+2019,7,Canadian Grand Prix,88,KUB,Williams,19.0,18.0,0.0,+3 Laps,67.0,70
+2019,7,Canadian Grand Prix,23,ALB,Toro Rosso,13.0,19.0,0.0,Collision damage,60.0,70
+2019,7,Canadian Grand Prix,4,NOR,McLaren,8.0,20.0,0.0,Suspension,9.0,70
+2019,8,French Grand Prix,44,HAM,Mercedes,1.0,1.0,25.0,Finished,53.0,53
+2019,8,French Grand Prix,77,BOT,Mercedes,2.0,2.0,18.0,Finished,53.0,53
+2019,8,French Grand Prix,16,LEC,Ferrari,3.0,3.0,15.0,Finished,53.0,53
+2019,8,French Grand Prix,33,VER,Red Bull Racing,4.0,4.0,12.0,Finished,53.0,53
+2019,8,French Grand Prix,5,VET,Ferrari,7.0,5.0,11.0,Finished,53.0,53
+2019,8,French Grand Prix,55,SAI,McLaren,6.0,6.0,8.0,Finished,53.0,53
+2019,8,French Grand Prix,7,RAI,Alfa Romeo Racing,12.0,7.0,6.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,27,HUL,Renault,13.0,8.0,4.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,4,NOR,McLaren,5.0,9.0,2.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,10,GAS,Red Bull Racing,9.0,10.0,1.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,3,RIC,Renault,8.0,11.0,0.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,11,PER,Racing Point,14.0,12.0,0.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,18,STR,Racing Point,17.0,13.0,0.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,26,KVY,Toro Rosso,19.0,14.0,0.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,23,ALB,Toro Rosso,11.0,15.0,0.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,99,GIO,Alfa Romeo Racing,10.0,16.0,0.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,20,MAG,Haas F1 Team,15.0,17.0,0.0,+1 Lap,52.0,53
+2019,8,French Grand Prix,88,KUB,Williams,18.0,18.0,0.0,+2 Laps,51.0,53
+2019,8,French Grand Prix,63,RUS,Williams,20.0,19.0,0.0,+2 Laps,51.0,53
+2019,8,French Grand Prix,8,GRO,Haas F1 Team,16.0,20.0,0.0,Retired,45.0,53
+2019,9,Austrian Grand Prix,33,VER,Red Bull Racing,2.0,1.0,26.0,Finished,71.0,71
+2019,9,Austrian Grand Prix,16,LEC,Ferrari,1.0,2.0,18.0,Finished,71.0,71
+2019,9,Austrian Grand Prix,77,BOT,Mercedes,3.0,3.0,15.0,Finished,71.0,71
+2019,9,Austrian Grand Prix,5,VET,Ferrari,9.0,4.0,12.0,Finished,71.0,71
+2019,9,Austrian Grand Prix,44,HAM,Mercedes,4.0,5.0,10.0,Finished,71.0,71
+2019,9,Austrian Grand Prix,4,NOR,McLaren,5.0,6.0,8.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,10,GAS,Red Bull Racing,8.0,7.0,6.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,55,SAI,McLaren,19.0,8.0,4.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,7,RAI,Alfa Romeo Racing,6.0,9.0,2.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,99,GIO,Alfa Romeo Racing,7.0,10.0,1.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,11,PER,Racing Point,13.0,11.0,0.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,3,RIC,Renault,12.0,12.0,0.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,27,HUL,Renault,15.0,13.0,0.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,18,STR,Racing Point,14.0,14.0,0.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,23,ALB,Toro Rosso,18.0,15.0,0.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,8,GRO,Haas F1 Team,11.0,16.0,0.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,26,KVY,Toro Rosso,16.0,17.0,0.0,+1 Lap,70.0,71
+2019,9,Austrian Grand Prix,63,RUS,Williams,0.0,18.0,0.0,+2 Laps,69.0,71
+2019,9,Austrian Grand Prix,20,MAG,Haas F1 Team,10.0,19.0,0.0,+2 Laps,69.0,71
+2019,9,Austrian Grand Prix,88,KUB,Williams,17.0,20.0,0.0,+3 Laps,68.0,71
+2019,10,British Grand Prix,44,HAM,Mercedes,2.0,1.0,26.0,Finished,52.0,52
+2019,10,British Grand Prix,77,BOT,Mercedes,1.0,2.0,18.0,Finished,52.0,52
+2019,10,British Grand Prix,16,LEC,Ferrari,3.0,3.0,15.0,Finished,52.0,52
+2019,10,British Grand Prix,10,GAS,Red Bull Racing,5.0,4.0,12.0,Finished,52.0,52
+2019,10,British Grand Prix,33,VER,Red Bull Racing,4.0,5.0,10.0,Finished,52.0,52
+2019,10,British Grand Prix,55,SAI,McLaren,13.0,6.0,8.0,Finished,52.0,52
+2019,10,British Grand Prix,3,RIC,Renault,7.0,7.0,6.0,Finished,52.0,52
+2019,10,British Grand Prix,7,RAI,Alfa Romeo Racing,12.0,8.0,4.0,Finished,52.0,52
+2019,10,British Grand Prix,26,KVY,Toro Rosso,17.0,9.0,2.0,Finished,52.0,52
+2019,10,British Grand Prix,27,HUL,Renault,10.0,10.0,1.0,Finished,52.0,52
+2019,10,British Grand Prix,4,NOR,McLaren,8.0,11.0,0.0,Finished,52.0,52
+2019,10,British Grand Prix,23,ALB,Toro Rosso,9.0,12.0,0.0,Finished,52.0,52
+2019,10,British Grand Prix,18,STR,Racing Point,18.0,13.0,0.0,Finished,52.0,52
+2019,10,British Grand Prix,63,RUS,Williams,19.0,14.0,0.0,+1 Lap,51.0,52
+2019,10,British Grand Prix,88,KUB,Williams,20.0,15.0,0.0,+1 Lap,51.0,52
+2019,10,British Grand Prix,5,VET,Ferrari,6.0,16.0,0.0,+1 Lap,51.0,52
+2019,10,British Grand Prix,11,PER,Racing Point,15.0,17.0,0.0,+1 Lap,51.0,52
+2019,10,British Grand Prix,99,GIO,Alfa Romeo Racing,11.0,18.0,0.0,Spun off,19.0,52
+2019,10,British Grand Prix,8,GRO,Haas F1 Team,14.0,19.0,0.0,Collision,9.0,52
+2019,10,British Grand Prix,20,MAG,Haas F1 Team,16.0,20.0,0.0,Collision,6.0,52
+2019,11,German Grand Prix,33,VER,Red Bull Racing,2.0,1.0,26.0,Finished,64.0,64
+2019,11,German Grand Prix,5,VET,Ferrari,20.0,2.0,18.0,Finished,64.0,64
+2019,11,German Grand Prix,26,KVY,Toro Rosso,14.0,3.0,15.0,Finished,64.0,64
+2019,11,German Grand Prix,18,STR,Racing Point,15.0,4.0,12.0,Finished,64.0,64
+2019,11,German Grand Prix,55,SAI,McLaren,7.0,5.0,10.0,Finished,64.0,64
+2019,11,German Grand Prix,23,ALB,Toro Rosso,16.0,6.0,8.0,Finished,64.0,64
+2019,11,German Grand Prix,8,GRO,Haas F1 Team,6.0,7.0,6.0,Finished,64.0,64
+2019,11,German Grand Prix,20,MAG,Haas F1 Team,12.0,8.0,4.0,Finished,64.0,64
+2019,11,German Grand Prix,44,HAM,Mercedes,1.0,9.0,2.0,Finished,64.0,64
+2019,11,German Grand Prix,88,KUB,Williams,18.0,10.0,1.0,Finished,64.0,64
+2019,11,German Grand Prix,63,RUS,Williams,17.0,11.0,0.0,Finished,64.0,64
+2019,11,German Grand Prix,7,RAI,Alfa Romeo Racing,5.0,12.0,0.0,Finished,64.0,64
+2019,11,German Grand Prix,99,GIO,Alfa Romeo Racing,11.0,13.0,0.0,Finished,64.0,64
+2019,11,German Grand Prix,10,GAS,Red Bull Racing,4.0,14.0,0.0,Collision,62.0,64
+2019,11,German Grand Prix,77,BOT,Mercedes,3.0,15.0,0.0,Accident,57.0,64
+2019,11,German Grand Prix,27,HUL,Renault,9.0,16.0,0.0,Accident,40.0,64
+2019,11,German Grand Prix,16,LEC,Ferrari,10.0,17.0,0.0,Accident,27.0,64
+2019,11,German Grand Prix,4,NOR,McLaren,19.0,18.0,0.0,Power loss,25.0,64
+2019,11,German Grand Prix,3,RIC,Renault,13.0,19.0,0.0,Exhaust,14.0,64
+2019,11,German Grand Prix,11,PER,Racing Point,8.0,20.0,0.0,Spun off,2.0,64
+2019,12,Hungarian Grand Prix,44,HAM,Mercedes,3.0,1.0,25.0,Finished,70.0,70
+2019,12,Hungarian Grand Prix,33,VER,Red Bull Racing,1.0,2.0,19.0,Finished,70.0,70
+2019,12,Hungarian Grand Prix,5,VET,Ferrari,5.0,3.0,15.0,Finished,70.0,70
+2019,12,Hungarian Grand Prix,16,LEC,Ferrari,4.0,4.0,12.0,Finished,70.0,70
+2019,12,Hungarian Grand Prix,55,SAI,McLaren,8.0,5.0,10.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,10,GAS,Red Bull Racing,6.0,6.0,8.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,7,RAI,Alfa Romeo Racing,10.0,7.0,6.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,77,BOT,Mercedes,2.0,8.0,4.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,4,NOR,McLaren,7.0,9.0,2.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,23,ALB,Toro Rosso,12.0,10.0,1.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,11,PER,Racing Point,16.0,11.0,0.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,27,HUL,Renault,11.0,12.0,0.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,20,MAG,Haas F1 Team,14.0,13.0,0.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,3,RIC,Renault,20.0,14.0,0.0,+1 Lap,69.0,70
+2019,12,Hungarian Grand Prix,26,KVY,Toro Rosso,13.0,15.0,0.0,+2 Laps,68.0,70
+2019,12,Hungarian Grand Prix,63,RUS,Williams,15.0,16.0,0.0,+2 Laps,68.0,70
+2019,12,Hungarian Grand Prix,18,STR,Racing Point,18.0,17.0,0.0,+2 Laps,68.0,70
+2019,12,Hungarian Grand Prix,99,GIO,Alfa Romeo Racing,17.0,18.0,0.0,+2 Laps,68.0,70
+2019,12,Hungarian Grand Prix,88,KUB,Williams,19.0,19.0,0.0,+3 Laps,67.0,70
+2019,12,Hungarian Grand Prix,8,GRO,Haas F1 Team,9.0,20.0,0.0,Water pressure,49.0,70
+2019,13,Belgian Grand Prix,16,LEC,Ferrari,1.0,1.0,25.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,44,HAM,Mercedes,3.0,2.0,18.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,77,BOT,Mercedes,4.0,3.0,15.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,5,VET,Ferrari,2.0,4.0,13.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,23,ALB,Red Bull Racing,17.0,5.0,10.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,11,PER,Racing Point,7.0,6.0,8.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,26,KVY,Toro Rosso,19.0,7.0,6.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,27,HUL,Renault,12.0,8.0,4.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,10,GAS,Toro Rosso,13.0,9.0,2.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,18,STR,Racing Point,16.0,10.0,1.0,Finished,44.0,44
+2019,13,Belgian Grand Prix,4,NOR,McLaren,11.0,11.0,0.0,Engine,44.0,44
+2019,13,Belgian Grand Prix,20,MAG,Haas F1 Team,8.0,12.0,0.0,+1 Lap,43.0,44
+2019,13,Belgian Grand Prix,8,GRO,Haas F1 Team,9.0,13.0,0.0,+1 Lap,43.0,44
+2019,13,Belgian Grand Prix,3,RIC,Renault,10.0,14.0,0.0,+1 Lap,43.0,44
+2019,13,Belgian Grand Prix,63,RUS,Williams,14.0,15.0,0.0,+1 Lap,43.0,44
+2019,13,Belgian Grand Prix,7,RAI,Alfa Romeo Racing,6.0,16.0,0.0,+1 Lap,43.0,44
+2019,13,Belgian Grand Prix,88,KUB,Williams,0.0,17.0,0.0,+1 Lap,43.0,44
+2019,13,Belgian Grand Prix,99,GIO,Alfa Romeo Racing,18.0,18.0,0.0,Accident,43.0,44
+2019,13,Belgian Grand Prix,55,SAI,McLaren,15.0,19.0,0.0,Power loss,1.0,44
+2019,13,Belgian Grand Prix,33,VER,Red Bull Racing,5.0,20.0,0.0,Accident,1.0,44
+2019,14,Italian Grand Prix,16,LEC,Ferrari,1.0,1.0,25.0,Finished,53.0,53
+2019,14,Italian Grand Prix,77,BOT,Mercedes,3.0,2.0,18.0,Finished,53.0,53
+2019,14,Italian Grand Prix,44,HAM,Mercedes,2.0,3.0,16.0,Finished,53.0,53
+2019,14,Italian Grand Prix,3,RIC,Renault,5.0,4.0,12.0,Finished,53.0,53
+2019,14,Italian Grand Prix,27,HUL,Renault,6.0,5.0,10.0,Finished,53.0,53
+2019,14,Italian Grand Prix,23,ALB,Red Bull Racing,8.0,6.0,8.0,Finished,53.0,53
+2019,14,Italian Grand Prix,11,PER,Racing Point,18.0,7.0,6.0,Finished,53.0,53
+2019,14,Italian Grand Prix,33,VER,Red Bull Racing,19.0,8.0,4.0,Finished,53.0,53
+2019,14,Italian Grand Prix,99,GIO,Alfa Romeo Racing,10.0,9.0,2.0,+1 Lap,52.0,53
+2019,14,Italian Grand Prix,4,NOR,McLaren,16.0,10.0,1.0,+1 Lap,52.0,53
+2019,14,Italian Grand Prix,10,GAS,Toro Rosso,17.0,11.0,0.0,+1 Lap,52.0,53
+2019,14,Italian Grand Prix,18,STR,Racing Point,9.0,12.0,0.0,+1 Lap,52.0,53
+2019,14,Italian Grand Prix,5,VET,Ferrari,4.0,13.0,0.0,+1 Lap,52.0,53
+2019,14,Italian Grand Prix,63,RUS,Williams,14.0,14.0,0.0,+1 Lap,52.0,53
+2019,14,Italian Grand Prix,7,RAI,Alfa Romeo Racing,0.0,15.0,0.0,+1 Lap,52.0,53
+2019,14,Italian Grand Prix,8,GRO,Haas F1 Team,13.0,16.0,0.0,+1 Lap,52.0,53
+2019,14,Italian Grand Prix,88,KUB,Williams,15.0,17.0,0.0,+2 Laps,51.0,53
+2019,14,Italian Grand Prix,20,MAG,Haas F1 Team,11.0,18.0,0.0,Hydraulics,43.0,53
+2019,14,Italian Grand Prix,26,KVY,Toro Rosso,12.0,19.0,0.0,Engine,30.0,53
+2019,14,Italian Grand Prix,55,SAI,McLaren,7.0,20.0,0.0,Wheel,27.0,53
+2019,15,Singapore Grand Prix,5,VET,Ferrari,3.0,1.0,25.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,16,LEC,Ferrari,1.0,2.0,18.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,33,VER,Red Bull Racing,4.0,3.0,15.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,44,HAM,Mercedes,2.0,4.0,12.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,77,BOT,Mercedes,5.0,5.0,10.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,23,ALB,Red Bull Racing,6.0,6.0,8.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,4,NOR,McLaren,9.0,7.0,6.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,10,GAS,Toro Rosso,11.0,8.0,4.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,27,HUL,Renault,8.0,9.0,2.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,99,GIO,Alfa Romeo Racing,10.0,10.0,1.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,8,GRO,Haas F1 Team,17.0,11.0,0.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,55,SAI,McLaren,7.0,12.0,0.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,18,STR,Racing Point,16.0,13.0,0.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,3,RIC,Renault,20.0,14.0,0.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,26,KVY,Toro Rosso,14.0,15.0,0.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,88,KUB,Williams,19.0,16.0,0.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,20,MAG,Haas F1 Team,13.0,17.0,0.0,Finished,61.0,61
+2019,15,Singapore Grand Prix,7,RAI,Alfa Romeo Racing,12.0,18.0,0.0,Collision,50.0,61
+2019,15,Singapore Grand Prix,11,PER,Racing Point,15.0,19.0,0.0,Engine,43.0,61
+2019,15,Singapore Grand Prix,63,RUS,Williams,18.0,20.0,0.0,Collision,35.0,61
+2019,16,Russian Grand Prix,44,HAM,Mercedes,2.0,1.0,26.0,Finished,53.0,53
+2019,16,Russian Grand Prix,77,BOT,Mercedes,4.0,2.0,18.0,Finished,53.0,53
+2019,16,Russian Grand Prix,16,LEC,Ferrari,1.0,3.0,15.0,Finished,53.0,53
+2019,16,Russian Grand Prix,33,VER,Red Bull Racing,9.0,4.0,12.0,Finished,53.0,53
+2019,16,Russian Grand Prix,23,ALB,Red Bull Racing,0.0,5.0,10.0,Finished,53.0,53
+2019,16,Russian Grand Prix,55,SAI,McLaren,5.0,6.0,8.0,Finished,53.0,53
+2019,16,Russian Grand Prix,11,PER,Racing Point,11.0,7.0,6.0,Finished,53.0,53
+2019,16,Russian Grand Prix,4,NOR,McLaren,7.0,8.0,4.0,Finished,53.0,53
+2019,16,Russian Grand Prix,20,MAG,Haas F1 Team,13.0,9.0,2.0,Finished,53.0,53
+2019,16,Russian Grand Prix,27,HUL,Renault,6.0,10.0,1.0,Finished,53.0,53
+2019,16,Russian Grand Prix,18,STR,Racing Point,14.0,11.0,0.0,Finished,53.0,53
+2019,16,Russian Grand Prix,26,KVY,Toro Rosso,19.0,12.0,0.0,Finished,53.0,53
+2019,16,Russian Grand Prix,7,RAI,Alfa Romeo Racing,15.0,13.0,0.0,Finished,53.0,53
+2019,16,Russian Grand Prix,10,GAS,Toro Rosso,16.0,14.0,0.0,Finished,53.0,53
+2019,16,Russian Grand Prix,99,GIO,Alfa Romeo Racing,12.0,15.0,0.0,Finished,53.0,53
+2019,16,Russian Grand Prix,88,KUB,Williams,18.0,16.0,0.0,Brakes,28.0,53
+2019,16,Russian Grand Prix,63,RUS,Williams,17.0,17.0,0.0,Brakes,27.0,53
+2019,16,Russian Grand Prix,5,VET,Ferrari,3.0,18.0,0.0,Power loss,26.0,53
+2019,16,Russian Grand Prix,3,RIC,Renault,10.0,19.0,0.0,Collision,24.0,53
+2019,16,Russian Grand Prix,8,GRO,Haas F1 Team,8.0,20.0,0.0,Collision,1.0,53
+2019,17,Japanese Grand Prix,77,BOT,Mercedes,3.0,1.0,25.0,Finished,53.0,53
+2019,17,Japanese Grand Prix,5,VET,Ferrari,1.0,2.0,18.0,Finished,53.0,53
+2019,17,Japanese Grand Prix,44,HAM,Mercedes,4.0,3.0,16.0,Finished,53.0,53
+2019,17,Japanese Grand Prix,23,ALB,Red Bull Racing,6.0,4.0,12.0,Finished,53.0,53
+2019,17,Japanese Grand Prix,55,SAI,McLaren,7.0,5.0,10.0,Finished,53.0,53
+2019,17,Japanese Grand Prix,16,LEC,Ferrari,2.0,6.0,8.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,10,GAS,Toro Rosso,9.0,7.0,6.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,11,PER,Racing Point,17.0,8.0,4.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,18,STR,Racing Point,12.0,9.0,2.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,26,KVY,Toro Rosso,14.0,10.0,1.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,4,NOR,McLaren,8.0,11.0,0.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,7,RAI,Alfa Romeo Racing,13.0,12.0,0.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,8,GRO,Haas F1 Team,10.0,13.0,0.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,99,GIO,Alfa Romeo Racing,11.0,14.0,0.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,20,MAG,Haas F1 Team,19.0,15.0,0.0,+1 Lap,52.0,53
+2019,17,Japanese Grand Prix,63,RUS,Williams,18.0,16.0,0.0,+2 Laps,51.0,53
+2019,17,Japanese Grand Prix,88,KUB,Williams,0.0,17.0,0.0,+2 Laps,51.0,53
+2019,17,Japanese Grand Prix,33,VER,Red Bull Racing,5.0,18.0,0.0,Brakes,14.0,53
+2019,17,Japanese Grand Prix,3,RIC,Renault,16.0,19.0,0.0,Disqualified,52.0,53
+2019,17,Japanese Grand Prix,27,HUL,Renault,15.0,20.0,0.0,Disqualified,52.0,53
+2019,18,Mexican Grand Prix,44,HAM,Mercedes,3.0,1.0,25.0,Finished,71.0,71
+2019,18,Mexican Grand Prix,5,VET,Ferrari,2.0,2.0,18.0,Finished,71.0,71
+2019,18,Mexican Grand Prix,77,BOT,Mercedes,6.0,3.0,15.0,Finished,71.0,71
+2019,18,Mexican Grand Prix,16,LEC,Ferrari,1.0,4.0,13.0,Finished,71.0,71
+2019,18,Mexican Grand Prix,23,ALB,Red Bull Racing,5.0,5.0,10.0,Finished,71.0,71
+2019,18,Mexican Grand Prix,33,VER,Red Bull Racing,4.0,6.0,8.0,Finished,71.0,71
+2019,18,Mexican Grand Prix,11,PER,Racing Point,11.0,7.0,6.0,Finished,71.0,71
+2019,18,Mexican Grand Prix,3,RIC,Renault,13.0,8.0,4.0,Finished,71.0,71
+2019,18,Mexican Grand Prix,10,GAS,Toro Rosso,10.0,9.0,2.0,+1 Lap,70.0,71
+2019,18,Mexican Grand Prix,27,HUL,Renault,12.0,10.0,1.0,+1 Lap,70.0,71
+2019,18,Mexican Grand Prix,26,KVY,Toro Rosso,9.0,11.0,0.0,+1 Lap,70.0,71
+2019,18,Mexican Grand Prix,18,STR,Racing Point,16.0,12.0,0.0,+1 Lap,70.0,71
+2019,18,Mexican Grand Prix,55,SAI,McLaren,7.0,13.0,0.0,+1 Lap,70.0,71
+2019,18,Mexican Grand Prix,99,GIO,Alfa Romeo Racing,15.0,14.0,0.0,+1 Lap,70.0,71
+2019,18,Mexican Grand Prix,20,MAG,Haas F1 Team,17.0,15.0,0.0,+2 Laps,69.0,71
+2019,18,Mexican Grand Prix,63,RUS,Williams,19.0,16.0,0.0,+2 Laps,69.0,71
+2019,18,Mexican Grand Prix,8,GRO,Haas F1 Team,18.0,17.0,0.0,+2 Laps,69.0,71
+2019,18,Mexican Grand Prix,88,KUB,Williams,20.0,18.0,0.0,+2 Laps,69.0,71
+2019,18,Mexican Grand Prix,7,RAI,Alfa Romeo Racing,14.0,19.0,0.0,Overheating,58.0,71
+2019,18,Mexican Grand Prix,4,NOR,McLaren,8.0,20.0,0.0,Withdrew,48.0,71
+2019,19,United States Grand Prix,77,BOT,Mercedes,1.0,1.0,25.0,Finished,56.0,56
+2019,19,United States Grand Prix,44,HAM,Mercedes,5.0,2.0,18.0,Finished,56.0,56
+2019,19,United States Grand Prix,33,VER,Red Bull Racing,3.0,3.0,15.0,Finished,56.0,56
+2019,19,United States Grand Prix,16,LEC,Ferrari,4.0,4.0,13.0,Finished,56.0,56
+2019,19,United States Grand Prix,23,ALB,Red Bull Racing,6.0,5.0,10.0,Finished,56.0,56
+2019,19,United States Grand Prix,3,RIC,Renault,9.0,6.0,8.0,Finished,56.0,56
+2019,19,United States Grand Prix,4,NOR,McLaren,8.0,7.0,6.0,Finished,56.0,56
+2019,19,United States Grand Prix,55,SAI,McLaren,7.0,8.0,4.0,+1 Lap,55.0,56
+2019,19,United States Grand Prix,27,HUL,Renault,11.0,9.0,2.0,+1 Lap,55.0,56
+2019,19,United States Grand Prix,11,PER,Racing Point,0.0,10.0,1.0,+1 Lap,55.0,56
+2019,19,United States Grand Prix,7,RAI,Alfa Romeo Racing,17.0,11.0,0.0,+1 Lap,55.0,56
+2019,19,United States Grand Prix,26,KVY,Toro Rosso,13.0,12.0,0.0,+1 Lap,55.0,56
+2019,19,United States Grand Prix,18,STR,Racing Point,14.0,13.0,0.0,+1 Lap,55.0,56
+2019,19,United States Grand Prix,99,GIO,Alfa Romeo Racing,16.0,14.0,0.0,+1 Lap,55.0,56
+2019,19,United States Grand Prix,8,GRO,Haas F1 Team,15.0,15.0,0.0,+1 Lap,55.0,56
+2019,19,United States Grand Prix,10,GAS,Toro Rosso,10.0,16.0,0.0,Suspension,54.0,56
+2019,19,United States Grand Prix,63,RUS,Williams,18.0,17.0,0.0,+2 Laps,54.0,56
+2019,19,United States Grand Prix,20,MAG,Haas F1 Team,12.0,18.0,0.0,Brakes,53.0,56
+2019,19,United States Grand Prix,88,KUB,Williams,19.0,19.0,0.0,Oil leak,31.0,56
+2019,19,United States Grand Prix,5,VET,Ferrari,2.0,20.0,0.0,Suspension,8.0,56
+2019,20,Brazilian Grand Prix,33,VER,Red Bull Racing,1.0,1.0,25.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,10,GAS,Toro Rosso,6.0,2.0,18.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,55,SAI,McLaren,20.0,3.0,15.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,7,RAI,Alfa Romeo Racing,8.0,4.0,12.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,99,GIO,Alfa Romeo Racing,12.0,5.0,10.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,3,RIC,Renault,11.0,6.0,8.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,44,HAM,Mercedes,3.0,7.0,6.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,4,NOR,McLaren,10.0,8.0,4.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,11,PER,Racing Point,15.0,9.0,2.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,26,KVY,Toro Rosso,16.0,10.0,1.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,20,MAG,Haas F1 Team,9.0,11.0,0.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,63,RUS,Williams,18.0,12.0,0.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,8,GRO,Haas F1 Team,7.0,13.0,0.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,23,ALB,Red Bull Racing,5.0,14.0,0.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,27,HUL,Renault,13.0,15.0,0.0,Finished,71.0,71
+2019,20,Brazilian Grand Prix,88,KUB,Williams,19.0,16.0,0.0,+1 Lap,70.0,71
+2019,20,Brazilian Grand Prix,5,VET,Ferrari,2.0,17.0,0.0,Collision,66.0,71
+2019,20,Brazilian Grand Prix,16,LEC,Ferrari,14.0,18.0,0.0,Collision,66.0,71
+2019,20,Brazilian Grand Prix,18,STR,Racing Point,17.0,19.0,0.0,Suspension,66.0,71
+2019,20,Brazilian Grand Prix,77,BOT,Mercedes,4.0,20.0,0.0,Power Unit,52.0,71
+2019,21,Abu Dhabi Grand Prix,44,HAM,Mercedes,1.0,1.0,26.0,Finished,55.0,55
+2019,21,Abu Dhabi Grand Prix,33,VER,Red Bull Racing,2.0,2.0,18.0,Finished,55.0,55
+2019,21,Abu Dhabi Grand Prix,16,LEC,Ferrari,3.0,3.0,15.0,Finished,55.0,55
+2019,21,Abu Dhabi Grand Prix,77,BOT,Mercedes,20.0,4.0,12.0,Finished,55.0,55
+2019,21,Abu Dhabi Grand Prix,5,VET,Ferrari,4.0,5.0,10.0,Finished,55.0,55
+2019,21,Abu Dhabi Grand Prix,23,ALB,Red Bull Racing,5.0,6.0,8.0,Finished,55.0,55
+2019,21,Abu Dhabi Grand Prix,11,PER,Racing Point,10.0,7.0,6.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,4,NOR,McLaren,6.0,8.0,4.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,26,KVY,Toro Rosso,13.0,9.0,2.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,55,SAI,McLaren,8.0,10.0,1.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,3,RIC,Renault,7.0,11.0,0.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,27,HUL,Renault,9.0,12.0,0.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,7,RAI,Alfa Romeo Racing,17.0,13.0,0.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,20,MAG,Haas F1 Team,14.0,14.0,0.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,8,GRO,Haas F1 Team,15.0,15.0,0.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,99,GIO,Alfa Romeo Racing,16.0,16.0,0.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,63,RUS,Williams,18.0,17.0,0.0,+1 Lap,54.0,55
+2019,21,Abu Dhabi Grand Prix,10,GAS,Toro Rosso,11.0,18.0,0.0,+2 Laps,53.0,55
+2019,21,Abu Dhabi Grand Prix,88,KUB,Williams,19.0,19.0,0.0,+2 Laps,53.0,55
+2019,21,Abu Dhabi Grand Prix,18,STR,Racing Point,12.0,20.0,0.0,Brakes,45.0,55

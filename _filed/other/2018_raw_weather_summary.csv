@@ -1,0 +1,22 @@
+﻿Year,Round,EventName,IsRainy,RainyLapFraction,AirTemp_mean,TrackTemp_mean,Humidity_mean,WindSpeed_mean
+2018,1,Australian Grand Prix,True,0.045,24.077,36.324,30.915,3.692
+2018,2,Bahrain Grand Prix,False,0.0,27.983,32.198,47.363,0.958
+2018,3,Chinese Grand Prix,True,0.0179,19.446,37.02,24.089,1.838
+2018,4,Azerbaijan Grand Prix,False,0.0,16.661,25.252,45.652,2.223
+2018,5,Spanish Grand Prix,True,0.7905,16.05,32.339,52.287,1.952
+2018,6,Monaco Grand Prix,True,0.1239,26.641,34.61,50.893,1.382
+2018,7,Canadian Grand Prix,False,0.0,20.524,36.949,27.825,2.472
+2018,8,French Grand Prix,True,0.0098,24.546,42.033,49.049,1.816
+2018,9,Austrian Grand Prix,False,0.0,23.176,45.879,37.141,2.485
+2018,10,British Grand Prix,False,0.0,27.432,52.169,38.74,1.461
+2018,11,German Grand Prix,True,0.2596,26.402,40.668,54.808,2.009
+2018,12,Hungarian Grand Prix,False,0.0,33.759,51.09,33.007,1.143
+2018,13,Belgian Grand Prix,False,0.0,17.327,27.898,37.701,2.04
+2018,14,Italian Grand Prix,True,0.2323,22.19,30.822,63.807,2.124
+2018,15,Singapore Grand Prix,False,0.0,29.865,33.124,66.036,1.979
+2018,16,Russian Grand Prix,True,0.0182,24.778,29.945,61.308,1.997
+2018,17,Japanese Grand Prix,False,0.0,28.265,37.17,50.516,1.792
+2018,18,United States Grand Prix,False,0.0,21.934,30.486,37.556,2.091
+2018,19,Mexican Grand Prix,False,0.0,20.123,34.47,50.709,1.559
+2018,20,Brazilian Grand Prix,False,0.0,23.77,40.069,75.413,2.187
+2018,21,Abu Dhabi Grand Prix,True,0.0438,31.274,33.318,45.438,2.164

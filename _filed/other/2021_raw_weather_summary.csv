@@ -1,0 +1,23 @@
+﻿Year,Round,EventName,IsRainy,RainyLapFraction,AirTemp_mean,TrackTemp_mean,Humidity_mean,WindSpeed_mean
+2021,1,Bahrain Grand Prix,False,0.0,20.538,27.628,54.517,0.887
+2021,2,Emilia Romagna Grand Prix,True,0.4099,10.621,16.827,69.489,0.479
+2021,3,Portuguese Grand Prix,False,0.0,19.393,38.951,39.404,0.837
+2021,4,Spanish Grand Prix,False,0.0,22.203,32.922,57.553,0.458
+2021,5,Monaco Grand Prix,False,0.0,20.761,37.596,61.424,0.316
+2021,6,Azerbaijan Grand Prix,False,0.0,24.171,38.315,55.805,0.284
+2021,7,French Grand Prix,False,0.0,25.314,35.229,58.63,1.166
+2021,8,Styrian Grand Prix,False,0.0,26.692,52.353,33.247,0.368
+2021,9,Austrian Grand Prix,True,0.0385,20.966,33.184,49.731,0.348
+2021,10,British Grand Prix,False,0.0,29.4,50.932,37.202,0.318
+2021,11,Hungarian Grand Prix,True,0.3037,27.227,37.823,68.616,0.568
+2021,12,Belgian Grand Prix,True,0.8414,13.012,15.259,96.436,0.511
+2021,13,Dutch Grand Prix,False,0.0,21.504,36.106,54.108,0.442
+2021,14,Italian Grand Prix,False,0.0,28.885,43.528,33.276,0.343
+2021,15,Russian Grand Prix,True,0.1013,19.139,21.757,61.947,0.291
+2021,16,Turkish Grand Prix,False,0.0,15.825,18.181,93.525,0.487
+2021,17,United States Grand Prix,False,0.0,28.148,37.471,61.193,0.854
+2021,18,Mexico City Grand Prix,False,0.0,21.207,47.579,31.211,0.366
+2021,19,São Paulo Grand Prix,False,0.0,23.137,51.561,60.101,0.392
+2021,20,Qatar Grand Prix,True,0.0197,26.415,30.603,75.54,0.423
+2021,21,Saudi Arabian Grand Prix,False,0.0,28.816,31.685,76.203,0.272
+2021,22,Abu Dhabi Grand Prix,False,0.0,24.519,28.466,59.055,0.415

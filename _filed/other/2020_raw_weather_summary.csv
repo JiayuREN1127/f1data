@@ -1,0 +1,18 @@
+﻿Year,Round,EventName,IsRainy,RainyLapFraction,AirTemp_mean,TrackTemp_mean,Humidity_mean,WindSpeed_mean
+2020,1,Austrian Grand Prix,False,0.0,28.684,52.025,33.833,1.887
+2020,2,Styrian Grand Prix,True,0.0167,20.822,39.92,34.005,2.228
+2020,3,Hungarian Grand Prix,True,0.0149,20.742,27.13,77.193,1.56
+2020,4,British Grand Prix,False,0.0,21.291,40.633,44.168,3.114
+2020,5,70th Anniversary Grand Prix,False,0.0,25.287,43.228,58.556,2.236
+2020,6,Spanish Grand Prix,False,0.0,29.797,47.556,56.384,1.545
+2020,7,Belgian Grand Prix,False,0.0,18.569,29.824,54.853,1.465
+2020,8,Italian Grand Prix,False,0.0,28.091,41.201,40.124,1.521
+2020,9,Tuscan Grand Prix,False,0.0,30.17,43.102,39.944,2.365
+2020,10,Russian Grand Prix,False,0.0,28.806,40.342,51.363,1.429
+2020,11,Eifel Grand Prix,True,0.0204,9.5,16.36,59.404,1.617
+2020,12,Portuguese Grand Prix,False,0.0,20.505,25.716,67.528,4.041
+2020,13,Emilia Romagna Grand Prix,False,0.0,18.03,23.261,71.137,1.342
+2020,14,Turkish Grand Prix,True,0.0432,13.096,15.206,80.161,1.066
+2020,15,Bahrain Grand Prix,False,0.0,25.099,27.548,67.847,0.843
+2020,16,Sakhir Grand Prix,False,0.0,20.947,23.469,58.169,1.948
+2020,17,Abu Dhabi Grand Prix,False,0.0,23.121,27.98,55.447,2.504

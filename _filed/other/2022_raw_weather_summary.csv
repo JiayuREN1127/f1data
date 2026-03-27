@@ -1,0 +1,23 @@
+﻿Year,Round,EventName,IsRainy,RainyLapFraction,AirTemp_mean,TrackTemp_mean,Humidity_mean,WindSpeed_mean
+2022,1,Bahrain Grand Prix,False,0.0,23.618,28.61,29.491,0.305
+2022,2,Saudi Arabian Grand Prix,False,0.0,25.42,28.409,59.664,2.359
+2022,3,Australian Grand Prix,False,0.0,26.697,37.408,43.654,1.813
+2022,4,Emilia Romagna Grand Prix,False,0.0,12.899,17.419,83.171,1.482
+2022,5,Miami Grand Prix,True,0.0556,30.617,42.82,58.858,2.267
+2022,6,Spanish Grand Prix,False,0.0,36.566,48.957,7.11,3.488
+2022,7,Monaco Grand Prix,True,0.4367,22.275,31.038,75.665,0.99
+2022,8,Azerbaijan Grand Prix,False,0.0,25.435,47.15,59.491,1.529
+2022,9,Canadian Grand Prix,False,0.0,20.763,41.261,28.926,3.552
+2022,10,British Grand Prix,True,0.0443,18.253,30.026,59.749,1.456
+2022,11,Austrian Grand Prix,False,0.0,20.256,30.747,35.138,1.255
+2022,12,French Grand Prix,False,0.0,30.165,54.462,47.734,1.946
+2022,13,Hungarian Grand Prix,True,0.2754,18.56,26.721,69.317,4.034
+2022,14,Belgian Grand Prix,False,0.0,21.787,36.084,40.519,1.519
+2022,15,Dutch Grand Prix,False,0.0,22.73,33.446,75.38,1.062
+2022,16,Italian Grand Prix,False,0.0,27.735,43.139,33.15,1.361
+2022,17,Singapore Grand Prix,True,0.1804,26.233,28.973,87.447,0.93
+2022,18,Japanese Grand Prix,True,0.9804,16.718,19.931,86.212,2.041
+2022,19,United States Grand Prix,False,0.0,29.285,35.524,49.624,5.487
+2022,20,Mexico City Grand Prix,False,0.0,24.313,41.689,34.442,1.337
+2022,21,São Paulo Grand Prix,False,0.0,23.011,46.049,76.078,1.444
+2022,22,Abu Dhabi Grand Prix,False,0.0,28.575,34.31,61.684,2.608

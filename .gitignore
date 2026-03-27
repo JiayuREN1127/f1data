@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Cache directory (large F1 data cache)
+cache/
+
+# macOS
+.DS_Store
+.~*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo

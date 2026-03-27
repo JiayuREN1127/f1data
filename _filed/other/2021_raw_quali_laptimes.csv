@@ -1,0 +1,435 @@
+﻿Year,Round,EventName,DriverAbbr,Team,BestLapTime_s
+2021,1,Bahrain Grand Prix,ALO,Alpine,90.249
+2021,1,Bahrain Grand Prix,BOT,Mercedes,89.586
+2021,1,Bahrain Grand Prix,GAS,AlphaTauri,89.809
+2021,1,Bahrain Grand Prix,GIO,Alfa Romeo Racing,90.708
+2021,1,Bahrain Grand Prix,HAM,Mercedes,89.385
+2021,1,Bahrain Grand Prix,LAT,Williams,91.936
+2021,1,Bahrain Grand Prix,LEC,Ferrari,89.678
+2021,1,Bahrain Grand Prix,MAZ,Haas F1 Team,93.273
+2021,1,Bahrain Grand Prix,MSC,Haas F1 Team,92.449
+2021,1,Bahrain Grand Prix,NOR,McLaren,89.974
+2021,1,Bahrain Grand Prix,OCO,Alpine,91.724
+2021,1,Bahrain Grand Prix,PER,Red Bull Racing,90.659
+2021,1,Bahrain Grand Prix,RAI,Alfa Romeo Racing,91.238
+2021,1,Bahrain Grand Prix,RIC,McLaren,89.927
+2021,1,Bahrain Grand Prix,RUS,Williams,91.316
+2021,1,Bahrain Grand Prix,SAI,Ferrari,90.009
+2021,1,Bahrain Grand Prix,STR,Aston Martin,90.601
+2021,1,Bahrain Grand Prix,TSU,AlphaTauri,90.607
+2021,1,Bahrain Grand Prix,VER,Red Bull Racing,88.997
+2021,1,Bahrain Grand Prix,VET,Aston Martin,92.056
+2021,2,Emilia Romagna Grand Prix,ALO,Alpine,75.593
+2021,2,Emilia Romagna Grand Prix,BOT,Mercedes,74.672
+2021,2,Emilia Romagna Grand Prix,GAS,AlphaTauri,74.79
+2021,2,Emilia Romagna Grand Prix,GIO,Alfa Romeo Racing,76.122
+2021,2,Emilia Romagna Grand Prix,HAM,Mercedes,74.411
+2021,2,Emilia Romagna Grand Prix,LAT,Williams,75.593
+2021,2,Emilia Romagna Grand Prix,LEC,Ferrari,74.74
+2021,2,Emilia Romagna Grand Prix,MAZ,Haas F1 Team,76.797
+2021,2,Emilia Romagna Grand Prix,MSC,Haas F1 Team,76.279
+2021,2,Emilia Romagna Grand Prix,NOR,McLaren,74.454
+2021,2,Emilia Romagna Grand Prix,OCO,Alpine,75.117
+2021,2,Emilia Romagna Grand Prix,PER,Red Bull Racing,74.446
+2021,2,Emilia Romagna Grand Prix,RAI,Alfa Romeo Racing,75.974
+2021,2,Emilia Romagna Grand Prix,RIC,McLaren,74.826
+2021,2,Emilia Romagna Grand Prix,RUS,Williams,75.261
+2021,2,Emilia Romagna Grand Prix,SAI,Ferrari,75.199
+2021,2,Emilia Romagna Grand Prix,STR,Aston Martin,75.138
+2021,2,Emilia Romagna Grand Prix,VER,Red Bull Racing,74.498
+2021,2,Emilia Romagna Grand Prix,VET,Aston Martin,75.394
+2021,3,Portuguese Grand Prix,ALO,Alpine,79.456
+2021,3,Portuguese Grand Prix,BOT,Mercedes,78.348
+2021,3,Portuguese Grand Prix,GAS,AlphaTauri,79.052
+2021,3,Portuguese Grand Prix,GIO,Alfa Romeo Racing,79.216
+2021,3,Portuguese Grand Prix,HAM,Mercedes,77.968
+2021,3,Portuguese Grand Prix,LAT,Williams,80.285
+2021,3,Portuguese Grand Prix,LEC,Ferrari,78.769
+2021,3,Portuguese Grand Prix,MAZ,Haas F1 Team,80.912
+2021,3,Portuguese Grand Prix,MSC,Haas F1 Team,80.452
+2021,3,Portuguese Grand Prix,NOR,McLaren,78.481
+2021,3,Portuguese Grand Prix,OCO,Alpine,78.586
+2021,3,Portuguese Grand Prix,PER,Red Bull Racing,78.845
+2021,3,Portuguese Grand Prix,RAI,Alfa Romeo Racing,79.748
+2021,3,Portuguese Grand Prix,RIC,McLaren,79.839
+2021,3,Portuguese Grand Prix,RUS,Williams,79.109
+2021,3,Portuguese Grand Prix,SAI,Ferrari,78.813
+2021,3,Portuguese Grand Prix,STR,Aston Martin,79.913
+2021,3,Portuguese Grand Prix,TSU,AlphaTauri,79.463
+2021,3,Portuguese Grand Prix,VER,Red Bull Racing,78.209
+2021,3,Portuguese Grand Prix,VET,Aston Martin,78.97
+2021,4,Spanish Grand Prix,ALO,Alpine,77.966
+2021,4,Spanish Grand Prix,BOT,Mercedes,76.873
+2021,4,Spanish Grand Prix,GAS,AlphaTauri,77.982
+2021,4,Spanish Grand Prix,GIO,Alfa Romeo Racing,78.356
+2021,4,Spanish Grand Prix,HAM,Mercedes,76.741
+2021,4,Spanish Grand Prix,LAT,Williams,79.219
+2021,4,Spanish Grand Prix,LEC,Ferrari,77.51
+2021,4,Spanish Grand Prix,MAZ,Haas F1 Team,79.807
+2021,4,Spanish Grand Prix,MSC,Haas F1 Team,79.117
+2021,4,Spanish Grand Prix,NOR,McLaren,77.696
+2021,4,Spanish Grand Prix,OCO,Alpine,77.58
+2021,4,Spanish Grand Prix,PER,Red Bull Racing,77.669
+2021,4,Spanish Grand Prix,RAI,Alfa Romeo Racing,78.917
+2021,4,Spanish Grand Prix,RIC,McLaren,77.622
+2021,4,Spanish Grand Prix,RUS,Williams,78.445
+2021,4,Spanish Grand Prix,SAI,Ferrari,77.62
+2021,4,Spanish Grand Prix,STR,Aston Martin,77.974
+2021,4,Spanish Grand Prix,TSU,AlphaTauri,78.556
+2021,4,Spanish Grand Prix,VER,Red Bull Racing,76.777
+2021,4,Spanish Grand Prix,VET,Aston Martin,78.079
+2021,5,Monaco Grand Prix,ALO,Alpine,72.205
+2021,5,Monaco Grand Prix,BOT,Mercedes,70.601
+2021,5,Monaco Grand Prix,GAS,AlphaTauri,70.9
+2021,5,Monaco Grand Prix,GIO,Alfa Romeo Racing,71.409
+2021,5,Monaco Grand Prix,HAM,Mercedes,71.095
+2021,5,Monaco Grand Prix,LAT,Williams,72.366
+2021,5,Monaco Grand Prix,LEC,Ferrari,70.346
+2021,5,Monaco Grand Prix,MAZ,Haas F1 Team,72.958
+2021,5,Monaco Grand Prix,NOR,McLaren,70.62
+2021,5,Monaco Grand Prix,OCO,Alpine,71.486
+2021,5,Monaco Grand Prix,PER,Red Bull Racing,71.019
+2021,5,Monaco Grand Prix,RAI,Alfa Romeo Racing,71.642
+2021,5,Monaco Grand Prix,RIC,McLaren,71.598
+2021,5,Monaco Grand Prix,RUS,Williams,71.83
+2021,5,Monaco Grand Prix,SAI,Ferrari,70.611
+2021,5,Monaco Grand Prix,STR,Aston Martin,71.6
+2021,5,Monaco Grand Prix,TSU,AlphaTauri,72.096
+2021,5,Monaco Grand Prix,VER,Red Bull Racing,70.576
+2021,5,Monaco Grand Prix,VET,Aston Martin,71.309
+2021,6,Azerbaijan Grand Prix,ALO,Alpine,102.195
+2021,6,Azerbaijan Grand Prix,BOT,Mercedes,102.106
+2021,6,Azerbaijan Grand Prix,GAS,AlphaTauri,101.565
+2021,6,Azerbaijan Grand Prix,HAM,Mercedes,101.45
+2021,6,Azerbaijan Grand Prix,LAT,Williams,103.128
+2021,6,Azerbaijan Grand Prix,LEC,Ferrari,101.218
+2021,6,Azerbaijan Grand Prix,MAZ,Haas F1 Team,104.238
+2021,6,Azerbaijan Grand Prix,MSC,Haas F1 Team,104.158
+2021,6,Azerbaijan Grand Prix,NOR,McLaren,101.747
+2021,6,Azerbaijan Grand Prix,OCO,Alpine,102.273
+2021,6,Azerbaijan Grand Prix,PER,Red Bull Racing,101.63
+2021,6,Azerbaijan Grand Prix,RAI,Alfa Romeo Racing,102.587
+2021,6,Azerbaijan Grand Prix,RIC,McLaren,102.304
+2021,6,Azerbaijan Grand Prix,RUS,Williams,102.728
+2021,6,Azerbaijan Grand Prix,SAI,Ferrari,101.576
+2021,6,Azerbaijan Grand Prix,TSU,AlphaTauri,101.654
+2021,6,Azerbaijan Grand Prix,VER,Red Bull Racing,101.563
+2021,6,Azerbaijan Grand Prix,VET,Aston Martin,102.224
+2021,7,French Grand Prix,ALO,Alpine,91.34
+2021,7,French Grand Prix,BOT,Mercedes,90.376
+2021,7,French Grand Prix,GAS,AlphaTauri,90.868
+2021,7,French Grand Prix,GIO,Alfa Romeo Racing,91.813
+2021,7,French Grand Prix,HAM,Mercedes,90.248
+2021,7,French Grand Prix,LAT,Williams,93.062
+2021,7,French Grand Prix,LEC,Ferrari,90.987
+2021,7,French Grand Prix,MAZ,Haas F1 Team,93.554
+2021,7,French Grand Prix,MSC,Haas F1 Team,92.942
+2021,7,French Grand Prix,NOR,McLaren,91.252
+2021,7,French Grand Prix,OCO,Alpine,91.736
+2021,7,French Grand Prix,PER,Red Bull Racing,90.445
+2021,7,French Grand Prix,RAI,Alfa Romeo Racing,93.354
+2021,7,French Grand Prix,RIC,McLaren,91.382
+2021,7,French Grand Prix,RUS,Williams,92.065
+2021,7,French Grand Prix,SAI,Ferrari,90.84
+2021,7,French Grand Prix,STR,Aston Martin,92.122
+2021,7,French Grand Prix,VER,Red Bull Racing,89.99
+2021,7,French Grand Prix,VET,Aston Martin,91.767
+2021,8,Styrian Grand Prix,ALO,Alpine,64.574
+2021,8,Styrian Grand Prix,BOT,Mercedes,64.035
+2021,8,Styrian Grand Prix,GAS,AlphaTauri,64.236
+2021,8,Styrian Grand Prix,GIO,Alfa Romeo Racing,64.913
+2021,8,Styrian Grand Prix,HAM,Mercedes,64.067
+2021,8,Styrian Grand Prix,LAT,Williams,65.175
+2021,8,Styrian Grand Prix,LEC,Ferrari,64.472
+2021,8,Styrian Grand Prix,MAZ,Haas F1 Team,66.192
+2021,8,Styrian Grand Prix,MSC,Haas F1 Team,66.041
+2021,8,Styrian Grand Prix,NOR,McLaren,64.12
+2021,8,Styrian Grand Prix,OCO,Alpine,65.217
+2021,8,Styrian Grand Prix,PER,Red Bull Racing,64.168
+2021,8,Styrian Grand Prix,RAI,Alfa Romeo Racing,65.429
+2021,8,Styrian Grand Prix,RIC,McLaren,64.808
+2021,8,Styrian Grand Prix,RUS,Williams,64.671
+2021,8,Styrian Grand Prix,SAI,Ferrari,64.711
+2021,8,Styrian Grand Prix,STR,Aston Martin,64.663
+2021,8,Styrian Grand Prix,TSU,AlphaTauri,64.514
+2021,8,Styrian Grand Prix,VER,Red Bull Racing,63.841
+2021,8,Styrian Grand Prix,VET,Aston Martin,64.711
+2021,9,Austrian Grand Prix,ALO,Alpine,64.472
+2021,9,Austrian Grand Prix,BOT,Mercedes,64.049
+2021,9,Austrian Grand Prix,GAS,AlphaTauri,64.107
+2021,9,Austrian Grand Prix,GIO,Alfa Romeo Racing,64.777
+2021,9,Austrian Grand Prix,HAM,Mercedes,64.014
+2021,9,Austrian Grand Prix,LAT,Williams,65.195
+2021,9,Austrian Grand Prix,LEC,Ferrari,64.6
+2021,9,Austrian Grand Prix,MAZ,Haas F1 Team,65.951
+2021,9,Austrian Grand Prix,MSC,Haas F1 Team,65.427
+2021,9,Austrian Grand Prix,NOR,McLaren,63.768
+2021,9,Austrian Grand Prix,OCO,Alpine,65.051
+2021,9,Austrian Grand Prix,PER,Red Bull Racing,63.99
+2021,9,Austrian Grand Prix,RAI,Alfa Romeo Racing,65.009
+2021,9,Austrian Grand Prix,RIC,McLaren,64.719
+2021,9,Austrian Grand Prix,RUS,Williams,64.553
+2021,9,Austrian Grand Prix,SAI,Ferrari,64.559
+2021,9,Austrian Grand Prix,STR,Aston Martin,64.547
+2021,9,Austrian Grand Prix,TSU,AlphaTauri,64.273
+2021,9,Austrian Grand Prix,VER,Red Bull Racing,63.72
+2021,9,Austrian Grand Prix,VET,Aston Martin,64.493
+2021,10,British Grand Prix,ALO,Alpine,87.245
+2021,10,British Grand Prix,BOT,Mercedes,86.328
+2021,10,British Grand Prix,GAS,AlphaTauri,87.273
+2021,10,British Grand Prix,GIO,Alfa Romeo Racing,87.595
+2021,10,British Grand Prix,HAM,Mercedes,86.023
+2021,10,British Grand Prix,LAT,Williams,88.254
+2021,10,British Grand Prix,LEC,Ferrari,86.828
+2021,10,British Grand Prix,MAZ,Haas F1 Team,89.051
+2021,10,British Grand Prix,MSC,Haas F1 Team,88.738
+2021,10,British Grand Prix,NOR,McLaren,86.897
+2021,10,British Grand Prix,OCO,Alpine,87.34
+2021,10,British Grand Prix,PER,Red Bull Racing,86.813
+2021,10,British Grand Prix,RAI,Alfa Romeo Racing,88.062
+2021,10,British Grand Prix,RIC,McLaren,86.899
+2021,10,British Grand Prix,RUS,Williams,86.971
+2021,10,British Grand Prix,SAI,Ferrari,86.848
+2021,10,British Grand Prix,STR,Aston Martin,87.665
+2021,10,British Grand Prix,TSU,AlphaTauri,88.043
+2021,10,British Grand Prix,VER,Red Bull Racing,86.209
+2021,10,British Grand Prix,VET,Aston Martin,87.103
+2021,11,Hungarian Grand Prix,ALO,Alpine,76.541
+2021,11,Hungarian Grand Prix,BOT,Mercedes,75.734
+2021,11,Hungarian Grand Prix,GAS,AlphaTauri,76.394
+2021,11,Hungarian Grand Prix,GIO,Alfa Romeo Racing,77.583
+2021,11,Hungarian Grand Prix,HAM,Mercedes,75.419
+2021,11,Hungarian Grand Prix,LAT,Williams,78.036
+2021,11,Hungarian Grand Prix,LEC,Ferrari,76.496
+2021,11,Hungarian Grand Prix,MAZ,Haas F1 Team,78.922
+2021,11,Hungarian Grand Prix,NOR,McLaren,76.385
+2021,11,Hungarian Grand Prix,OCO,Alpine,76.653
+2021,11,Hungarian Grand Prix,PER,Red Bull Racing,76.421
+2021,11,Hungarian Grand Prix,RAI,Alfa Romeo Racing,77.553
+2021,11,Hungarian Grand Prix,RIC,McLaren,76.871
+2021,11,Hungarian Grand Prix,RUS,Williams,77.944
+2021,11,Hungarian Grand Prix,SAI,Ferrari,76.649
+2021,11,Hungarian Grand Prix,STR,Aston Martin,76.893
+2021,11,Hungarian Grand Prix,TSU,AlphaTauri,77.919
+2021,11,Hungarian Grand Prix,VER,Red Bull Racing,75.65
+2021,11,Hungarian Grand Prix,VET,Aston Martin,76.75
+2021,12,Belgian Grand Prix,ALO,Alpine,118.205
+2021,12,Belgian Grand Prix,BOT,Mercedes,116.295
+2021,12,Belgian Grand Prix,GAS,AlphaTauri,116.44
+2021,12,Belgian Grand Prix,GIO,Alfa Romeo Racing,122.306
+2021,12,Belgian Grand Prix,HAM,Mercedes,116.229
+2021,12,Belgian Grand Prix,LAT,Williams,118.056
+2021,12,Belgian Grand Prix,LEC,Ferrari,117.721
+2021,12,Belgian Grand Prix,MAZ,Haas F1 Team,124.939
+2021,12,Belgian Grand Prix,MSC,Haas F1 Team,123.973
+2021,12,Belgian Grand Prix,NOR,McLaren,116.025
+2021,12,Belgian Grand Prix,OCO,Alpine,117.354
+2021,12,Belgian Grand Prix,PER,Red Bull Racing,116.886
+2021,12,Belgian Grand Prix,RAI,Alfa Romeo Racing,124.452
+2021,12,Belgian Grand Prix,RIC,McLaren,117.127
+2021,12,Belgian Grand Prix,RUS,Williams,116.95
+2021,12,Belgian Grand Prix,SAI,Ferrari,118.137
+2021,12,Belgian Grand Prix,STR,Aston Martin,118.231
+2021,12,Belgian Grand Prix,TSU,AlphaTauri,122.413
+2021,12,Belgian Grand Prix,VER,Red Bull Racing,116.559
+2021,12,Belgian Grand Prix,VET,Aston Martin,116.814
+2021,13,Dutch Grand Prix,ALO,Alpine,69.956
+2021,13,Dutch Grand Prix,BOT,Mercedes,69.222
+2021,13,Dutch Grand Prix,GAS,AlphaTauri,69.478
+2021,13,Dutch Grand Prix,GIO,Alfa Romeo Racing,69.59
+2021,13,Dutch Grand Prix,HAM,Mercedes,68.923
+2021,13,Dutch Grand Prix,KUB,Alfa Romeo Racing,71.301
+2021,13,Dutch Grand Prix,LAT,Williams,70.093
+2021,13,Dutch Grand Prix,LEC,Ferrari,69.437
+2021,13,Dutch Grand Prix,MAZ,Haas F1 Team,71.875
+2021,13,Dutch Grand Prix,MSC,Haas F1 Team,71.387
+2021,13,Dutch Grand Prix,NOR,McLaren,70.406
+2021,13,Dutch Grand Prix,OCO,Alpine,69.919
+2021,13,Dutch Grand Prix,PER,Red Bull Racing,70.53
+2021,13,Dutch Grand Prix,RIC,McLaren,69.865
+2021,13,Dutch Grand Prix,RUS,Williams,70.332
+2021,13,Dutch Grand Prix,SAI,Ferrari,69.537
+2021,13,Dutch Grand Prix,STR,Aston Martin,70.367
+2021,13,Dutch Grand Prix,TSU,AlphaTauri,70.462
+2021,13,Dutch Grand Prix,VER,Red Bull Racing,68.885
+2021,13,Dutch Grand Prix,VET,Aston Martin,70.731
+2021,14,Italian Grand Prix,ALO,Alpine,81.069
+2021,14,Italian Grand Prix,BOT,Mercedes,79.555
+2021,14,Italian Grand Prix,GAS,AlphaTauri,80.26
+2021,14,Italian Grand Prix,GIO,Alfa Romeo Racing,80.726
+2021,14,Italian Grand Prix,HAM,Mercedes,79.651
+2021,14,Italian Grand Prix,KUB,Alfa Romeo Racing,82.53
+2021,14,Italian Grand Prix,LAT,Williams,81.925
+2021,14,Italian Grand Prix,LEC,Ferrari,80.51
+2021,14,Italian Grand Prix,MAZ,Haas F1 Team,82.716
+2021,14,Italian Grand Prix,MSC,Haas F1 Team,82.248
+2021,14,Italian Grand Prix,NOR,McLaren,79.989
+2021,14,Italian Grand Prix,OCO,Alpine,81.103
+2021,14,Italian Grand Prix,PER,Red Bull Racing,80.611
+2021,14,Italian Grand Prix,RIC,McLaren,79.995
+2021,14,Italian Grand Prix,RUS,Williams,81.392
+2021,14,Italian Grand Prix,SAI,Ferrari,80.462
+2021,14,Italian Grand Prix,STR,Aston Martin,81.02
+2021,14,Italian Grand Prix,TSU,AlphaTauri,81.711
+2021,14,Italian Grand Prix,VER,Red Bull Racing,79.966
+2021,14,Italian Grand Prix,VET,Aston Martin,80.913
+2021,15,Russian Grand Prix,ALO,Alpine,104.204
+2021,15,Russian Grand Prix,BOT,Mercedes,104.71
+2021,15,Russian Grand Prix,GAS,AlphaTauri,106.641
+2021,15,Russian Grand Prix,GIO,Alfa Romeo Racing,111.023
+2021,15,Russian Grand Prix,HAM,Mercedes,104.05
+2021,15,Russian Grand Prix,LAT,Williams,108.252
+2021,15,Russian Grand Prix,LEC,Ferrari,108.47
+2021,15,Russian Grand Prix,MAZ,Haas F1 Team,113.764
+2021,15,Russian Grand Prix,MSC,Haas F1 Team,109.83
+2021,15,Russian Grand Prix,NOR,McLaren,101.993
+2021,15,Russian Grand Prix,OCO,Alpine,105.865
+2021,15,Russian Grand Prix,PER,Red Bull Racing,105.337
+2021,15,Russian Grand Prix,RAI,Alfa Romeo Racing,109.586
+2021,15,Russian Grand Prix,RIC,McLaren,104.156
+2021,15,Russian Grand Prix,RUS,Williams,102.983
+2021,15,Russian Grand Prix,SAI,Ferrari,102.51
+2021,15,Russian Grand Prix,STR,Aston Martin,104.956
+2021,15,Russian Grand Prix,TSU,AlphaTauri,106.751
+2021,15,Russian Grand Prix,VER,Red Bull Racing,119.522
+2021,15,Russian Grand Prix,VET,Aston Martin,106.573
+2021,16,Turkish Grand Prix,ALO,Alpine,83.477
+2021,16,Turkish Grand Prix,BOT,Mercedes,82.998
+2021,16,Turkish Grand Prix,GAS,AlphaTauri,83.326
+2021,16,Turkish Grand Prix,GIO,Alfa Romeo Racing,86.43
+2021,16,Turkish Grand Prix,HAM,Mercedes,82.868
+2021,16,Turkish Grand Prix,LAT,Williams,86.086
+2021,16,Turkish Grand Prix,LEC,Ferrari,83.265
+2021,16,Turkish Grand Prix,MAZ,Haas F1 Team,88.449
+2021,16,Turkish Grand Prix,MSC,Haas F1 Team,85.2
+2021,16,Turkish Grand Prix,NOR,McLaren,83.954
+2021,16,Turkish Grand Prix,OCO,Alpine,84.842
+2021,16,Turkish Grand Prix,PER,Red Bull Racing,83.706
+2021,16,Turkish Grand Prix,RAI,Alfa Romeo Racing,87.525
+2021,16,Turkish Grand Prix,RIC,McLaren,85.881
+2021,16,Turkish Grand Prix,RUS,Williams,85.007
+2021,16,Turkish Grand Prix,SAI,Ferrari,85.177
+2021,16,Turkish Grand Prix,STR,Aston Martin,84.305
+2021,16,Turkish Grand Prix,TSU,AlphaTauri,84.054
+2021,16,Turkish Grand Prix,VER,Red Bull Racing,83.196
+2021,16,Turkish Grand Prix,VET,Aston Martin,84.795
+2021,17,United States Grand Prix,ALO,Alpine,95.756
+2021,17,United States Grand Prix,BOT,Mercedes,93.475
+2021,17,United States Grand Prix,GAS,AlphaTauri,94.118
+2021,17,United States Grand Prix,GIO,Alfa Romeo Racing,95.794
+2021,17,United States Grand Prix,HAM,Mercedes,93.119
+2021,17,United States Grand Prix,LAT,Williams,95.995
+2021,17,United States Grand Prix,LEC,Ferrari,93.606
+2021,17,United States Grand Prix,MAZ,Haas F1 Team,96.796
+2021,17,United States Grand Prix,MSC,Haas F1 Team,96.499
+2021,17,United States Grand Prix,NOR,McLaren,93.88
+2021,17,United States Grand Prix,OCO,Alpine,95.377
+2021,17,United States Grand Prix,PER,Red Bull Racing,93.134
+2021,17,United States Grand Prix,RAI,Alfa Romeo Racing,96.311
+2021,17,United States Grand Prix,RIC,McLaren,93.808
+2021,17,United States Grand Prix,RUS,Williams,95.73
+2021,17,United States Grand Prix,SAI,Ferrari,93.792
+2021,17,United States Grand Prix,STR,Aston Martin,95.983
+2021,17,United States Grand Prix,TSU,AlphaTauri,94.918
+2021,17,United States Grand Prix,VER,Red Bull Racing,92.91
+2021,17,United States Grand Prix,VET,Aston Martin,95.281
+2021,18,Mexico City Grand Prix,ALO,Alpine,78.452
+2021,18,Mexico City Grand Prix,BOT,Mercedes,75.875
+2021,18,Mexico City Grand Prix,GAS,AlphaTauri,76.456
+2021,18,Mexico City Grand Prix,GIO,Alfa Romeo Racing,77.897
+2021,18,Mexico City Grand Prix,HAM,Mercedes,76.02
+2021,18,Mexico City Grand Prix,LAT,Williams,78.756
+2021,18,Mexico City Grand Prix,LEC,Ferrari,76.748
+2021,18,Mexico City Grand Prix,MAZ,Haas F1 Team,79.303
+2021,18,Mexico City Grand Prix,MSC,Haas F1 Team,78.858
+2021,18,Mexico City Grand Prix,NOR,McLaren,77.473
+2021,18,Mexico City Grand Prix,OCO,Alpine,78.126
+2021,18,Mexico City Grand Prix,PER,Red Bull Racing,76.342
+2021,18,Mexico City Grand Prix,RAI,Alfa Romeo Racing,77.606
+2021,18,Mexico City Grand Prix,RIC,McLaren,76.763
+2021,18,Mexico City Grand Prix,RUS,Williams,77.958
+2021,18,Mexico City Grand Prix,SAI,Ferrari,76.761
+2021,18,Mexico City Grand Prix,STR,Aston Martin,80.873
+2021,18,Mexico City Grand Prix,TSU,AlphaTauri,76.701
+2021,18,Mexico City Grand Prix,VER,Red Bull Racing,76.225
+2021,18,Mexico City Grand Prix,VET,Aston Martin,77.502
+2021,19,São Paulo Grand Prix,ALO,Alpine,69.113
+2021,19,São Paulo Grand Prix,BOT,Mercedes,68.426
+2021,19,São Paulo Grand Prix,GAS,AlphaTauri,68.777
+2021,19,São Paulo Grand Prix,GIO,Alfa Romeo Racing,69.342
+2021,19,São Paulo Grand Prix,HAM,Mercedes,67.934
+2021,19,São Paulo Grand Prix,LAT,Williams,69.897
+2021,19,São Paulo Grand Prix,LEC,Ferrari,68.859
+2021,19,São Paulo Grand Prix,MAZ,Haas F1 Team,70.589
+2021,19,São Paulo Grand Prix,MSC,Haas F1 Team,69.958
+2021,19,São Paulo Grand Prix,NOR,McLaren,68.98
+2021,19,São Paulo Grand Prix,OCO,Alpine,69.189
+2021,19,São Paulo Grand Prix,PER,Red Bull Racing,68.483
+2021,19,São Paulo Grand Prix,RAI,Alfa Romeo Racing,69.503
+2021,19,São Paulo Grand Prix,RIC,McLaren,69.039
+2021,19,São Paulo Grand Prix,RUS,Williams,69.953
+2021,19,São Paulo Grand Prix,SAI,Ferrari,68.826
+2021,19,São Paulo Grand Prix,STR,Aston Martin,69.663
+2021,19,São Paulo Grand Prix,TSU,AlphaTauri,69.35
+2021,19,São Paulo Grand Prix,VER,Red Bull Racing,68.372
+2021,19,São Paulo Grand Prix,VET,Aston Martin,69.399
+2021,20,Qatar Grand Prix,ALO,Alpine,81.67
+2021,20,Qatar Grand Prix,BOT,Mercedes,81.478
+2021,20,Qatar Grand Prix,GAS,AlphaTauri,81.64
+2021,20,Qatar Grand Prix,GIO,Alfa Romeo Racing,83.262
+2021,20,Qatar Grand Prix,HAM,Mercedes,80.827
+2021,20,Qatar Grand Prix,LAT,Williams,83.213
+2021,20,Qatar Grand Prix,LEC,Ferrari,82.463
+2021,20,Qatar Grand Prix,MAZ,Haas F1 Team,85.859
+2021,20,Qatar Grand Prix,MSC,Haas F1 Team,83.407
+2021,20,Qatar Grand Prix,NOR,McLaren,81.731
+2021,20,Qatar Grand Prix,OCO,Alpine,82.012
+2021,20,Qatar Grand Prix,PER,Red Bull Racing,82.346
+2021,20,Qatar Grand Prix,RAI,Alfa Romeo Racing,83.156
+2021,20,Qatar Grand Prix,RIC,McLaren,82.597
+2021,20,Qatar Grand Prix,RUS,Williams,82.756
+2021,20,Qatar Grand Prix,SAI,Ferrari,81.84
+2021,20,Qatar Grand Prix,STR,Aston Martin,82.46
+2021,20,Qatar Grand Prix,TSU,AlphaTauri,81.881
+2021,20,Qatar Grand Prix,VER,Red Bull Racing,81.282
+2021,20,Qatar Grand Prix,VET,Aston Martin,82.146
+2021,21,Saudi Arabian Grand Prix,ALO,Alpine,88.92
+2021,21,Saudi Arabian Grand Prix,BOT,Mercedes,87.622
+2021,21,Saudi Arabian Grand Prix,GAS,AlphaTauri,88.125
+2021,21,Saudi Arabian Grand Prix,GIO,Alfa Romeo Racing,88.616
+2021,21,Saudi Arabian Grand Prix,HAM,Mercedes,87.511
+2021,21,Saudi Arabian Grand Prix,LAT,Williams,89.177
+2021,21,Saudi Arabian Grand Prix,LEC,Ferrari,88.054
+2021,21,Saudi Arabian Grand Prix,MAZ,Haas F1 Team,90.473
+2021,21,Saudi Arabian Grand Prix,MSC,Haas F1 Team,89.464
+2021,21,Saudi Arabian Grand Prix,NOR,McLaren,88.18
+2021,21,Saudi Arabian Grand Prix,OCO,Alpine,88.574
+2021,21,Saudi Arabian Grand Prix,PER,Red Bull Racing,87.946
+2021,21,Saudi Arabian Grand Prix,RAI,Alfa Romeo Racing,88.856
+2021,21,Saudi Arabian Grand Prix,RIC,McLaren,88.216
+2021,21,Saudi Arabian Grand Prix,RUS,Williams,88.926
+2021,21,Saudi Arabian Grand Prix,SAI,Ferrari,88.237
+2021,21,Saudi Arabian Grand Prix,STR,Aston Martin,89.368
+2021,21,Saudi Arabian Grand Prix,TSU,AlphaTauri,88.222
+2021,21,Saudi Arabian Grand Prix,VER,Red Bull Racing,87.653
+2021,21,Saudi Arabian Grand Prix,VET,Aston Martin,89.198
+2021,22,Abu Dhabi Grand Prix,ALO,Alpine,83.46
+2021,22,Abu Dhabi Grand Prix,BOT,Mercedes,83.036
+2021,22,Abu Dhabi Grand Prix,GAS,AlphaTauri,83.489
+2021,22,Abu Dhabi Grand Prix,GIO,Alfa Romeo Racing,84.118
+2021,22,Abu Dhabi Grand Prix,HAM,Mercedes,82.48
+2021,22,Abu Dhabi Grand Prix,LAT,Williams,84.338
+2021,22,Abu Dhabi Grand Prix,LEC,Ferrari,83.122
+2021,22,Abu Dhabi Grand Prix,MAZ,Haas F1 Team,85.685
+2021,22,Abu Dhabi Grand Prix,MSC,Haas F1 Team,84.906
+2021,22,Abu Dhabi Grand Prix,NOR,McLaren,82.931
+2021,22,Abu Dhabi Grand Prix,OCO,Alpine,83.389
+2021,22,Abu Dhabi Grand Prix,PER,Red Bull Racing,82.947
+2021,22,Abu Dhabi Grand Prix,RAI,Alfa Romeo Racing,84.779
+2021,22,Abu Dhabi Grand Prix,RIC,McLaren,83.409
+2021,22,Abu Dhabi Grand Prix,RUS,Williams,84.423
+2021,22,Abu Dhabi Grand Prix,SAI,Ferrari,82.992
+2021,22,Abu Dhabi Grand Prix,STR,Aston Martin,84.061
+2021,22,Abu Dhabi Grand Prix,TSU,AlphaTauri,83.011
+2021,22,Abu Dhabi Grand Prix,VER,Red Bull Racing,82.109
+2021,22,Abu Dhabi Grand Prix,VET,Aston Martin,84.225

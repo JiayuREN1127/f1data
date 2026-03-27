@@ -1,0 +1,340 @@
+﻿Year,Round,EventName,DriverAbbr,Team,BestLapTime_s
+2020,1,Austrian Grand Prix,ALB,Red Bull Racing,63.746
+2020,1,Austrian Grand Prix,BOT,Mercedes,62.939
+2020,1,Austrian Grand Prix,GAS,AlphaTauri,64.305
+2020,1,Austrian Grand Prix,GIO,Alfa Romeo Racing,65.175
+2020,1,Austrian Grand Prix,GRO,Haas F1 Team,64.691
+2020,1,Austrian Grand Prix,HAM,Mercedes,62.951
+2020,1,Austrian Grand Prix,KVY,AlphaTauri,64.431
+2020,1,Austrian Grand Prix,LAT,Williams,65.757
+2020,1,Austrian Grand Prix,LEC,Ferrari,63.923
+2020,1,Austrian Grand Prix,MAG,Haas F1 Team,65.164
+2020,1,Austrian Grand Prix,NOR,McLaren,63.626
+2020,1,Austrian Grand Prix,OCO,Renault,64.643
+2020,1,Austrian Grand Prix,PER,Racing Point,63.86
+2020,1,Austrian Grand Prix,RAI,Alfa Romeo Racing,65.224
+2020,1,Austrian Grand Prix,RIC,Renault,64.023
+2020,1,Austrian Grand Prix,RUS,Williams,65.167
+2020,1,Austrian Grand Prix,SAI,McLaren,63.971
+2020,1,Austrian Grand Prix,STR,Racing Point,63.955
+2020,1,Austrian Grand Prix,VER,Red Bull Racing,63.477
+2020,1,Austrian Grand Prix,VET,Ferrari,64.206
+2020,2,Styrian Grand Prix,ALB,Red Bull Racing,79.014
+2020,2,Styrian Grand Prix,BOT,Mercedes,78.657
+2020,2,Styrian Grand Prix,GAS,AlphaTauri,78.744
+2020,2,Styrian Grand Prix,GIO,Alfa Romeo Racing,81.831
+2020,2,Styrian Grand Prix,HAM,Mercedes,77.825
+2020,2,Styrian Grand Prix,KVY,AlphaTauri,79.717
+2020,2,Styrian Grand Prix,LAT,Williams,81.759
+2020,2,Styrian Grand Prix,LEC,Ferrari,79.628
+2020,2,Styrian Grand Prix,MAG,Haas F1 Team,80.211
+2020,2,Styrian Grand Prix,NOR,McLaren,78.448
+2020,2,Styrian Grand Prix,OCO,Renault,78.764
+2020,2,Styrian Grand Prix,PER,Racing Point,81.607
+2020,2,Styrian Grand Prix,RAI,Alfa Romeo Racing,81.372
+2020,2,Styrian Grand Prix,RIC,Renault,79.229
+2020,2,Styrian Grand Prix,RUS,Williams,79.636
+2020,2,Styrian Grand Prix,SAI,McLaren,78.59
+2020,2,Styrian Grand Prix,STR,Racing Point,79.645
+2020,2,Styrian Grand Prix,VER,Red Bull Racing,77.938
+2020,2,Styrian Grand Prix,VET,Ferrari,79.545
+2020,3,Hungarian Grand Prix,ALB,Red Bull Racing,75.715
+2020,3,Hungarian Grand Prix,BOT,Mercedes,73.554
+2020,3,Hungarian Grand Prix,GAS,AlphaTauri,75.508
+2020,3,Hungarian Grand Prix,GIO,Alfa Romeo Racing,76.506
+2020,3,Hungarian Grand Prix,GRO,Haas F1 Team,76.407
+2020,3,Hungarian Grand Prix,HAM,Mercedes,73.447
+2020,3,Hungarian Grand Prix,KVY,AlphaTauri,76.204
+2020,3,Hungarian Grand Prix,LAT,Williams,76.105
+2020,3,Hungarian Grand Prix,LEC,Ferrari,74.817
+2020,3,Hungarian Grand Prix,MAG,Haas F1 Team,76.152
+2020,3,Hungarian Grand Prix,NOR,McLaren,74.966
+2020,3,Hungarian Grand Prix,OCO,Renault,75.719
+2020,3,Hungarian Grand Prix,PER,Racing Point,74.545
+2020,3,Hungarian Grand Prix,RAI,Alfa Romeo Racing,76.614
+2020,3,Hungarian Grand Prix,RIC,Renault,75.661
+2020,3,Hungarian Grand Prix,RUS,Williams,75.585
+2020,3,Hungarian Grand Prix,SAI,McLaren,75.027
+2020,3,Hungarian Grand Prix,STR,Racing Point,74.377
+2020,3,Hungarian Grand Prix,VER,Red Bull Racing,74.849
+2020,3,Hungarian Grand Prix,VET,Ferrari,74.774
+2020,4,British Grand Prix,ALB,Red Bull Racing,86.545
+2020,4,British Grand Prix,BOT,Mercedes,84.616
+2020,4,British Grand Prix,GAS,AlphaTauri,86.343
+2020,4,British Grand Prix,GIO,Alfa Romeo Racing,87.164
+2020,4,British Grand Prix,GRO,Haas F1 Team,87.317
+2020,4,British Grand Prix,HAM,Mercedes,84.303
+2020,4,British Grand Prix,HUL,Racing Point,86.327
+2020,4,British Grand Prix,KVY,AlphaTauri,86.744
+2020,4,British Grand Prix,LAT,Williams,87.705
+2020,4,British Grand Prix,LEC,Ferrari,85.427
+2020,4,British Grand Prix,MAG,Haas F1 Team,87.158
+2020,4,British Grand Prix,NOR,McLaren,85.782
+2020,4,British Grand Prix,OCO,Renault,86.209
+2020,4,British Grand Prix,RAI,Alfa Romeo Racing,87.366
+2020,4,British Grand Prix,RIC,Renault,86.009
+2020,4,British Grand Prix,RUS,Williams,86.732
+2020,4,British Grand Prix,SAI,McLaren,85.965
+2020,4,British Grand Prix,STR,Racing Point,85.839
+2020,4,British Grand Prix,VER,Red Bull Racing,85.325
+2020,4,British Grand Prix,VET,Ferrari,86.077
+2020,5,70th Anniversary Grand Prix,ALB,Red Bull Racing,86.642
+2020,5,70th Anniversary Grand Prix,BOT,Mercedes,85.154
+2020,5,70th Anniversary Grand Prix,GAS,AlphaTauri,86.523
+2020,5,70th Anniversary Grand Prix,GIO,Alfa Romeo Racing,88.433
+2020,5,70th Anniversary Grand Prix,GRO,Haas F1 Team,87.254
+2020,5,70th Anniversary Grand Prix,HAM,Mercedes,85.217
+2020,5,70th Anniversary Grand Prix,HUL,Racing Point,86.082
+2020,5,70th Anniversary Grand Prix,KVY,AlphaTauri,87.882
+2020,5,70th Anniversary Grand Prix,LAT,Williams,88.43
+2020,5,70th Anniversary Grand Prix,LEC,Ferrari,86.614
+2020,5,70th Anniversary Grand Prix,MAG,Haas F1 Team,88.236
+2020,5,70th Anniversary Grand Prix,NOR,McLaren,86.778
+2020,5,70th Anniversary Grand Prix,OCO,Renault,87.011
+2020,5,70th Anniversary Grand Prix,RAI,Alfa Romeo Racing,88.493
+2020,5,70th Anniversary Grand Prix,RIC,Renault,86.297
+2020,5,70th Anniversary Grand Prix,RUS,Williams,87.455
+2020,5,70th Anniversary Grand Prix,SAI,McLaren,87.083
+2020,5,70th Anniversary Grand Prix,STR,Racing Point,86.428
+2020,5,70th Anniversary Grand Prix,VER,Red Bull Racing,86.176
+2020,5,70th Anniversary Grand Prix,VET,Ferrari,87.078
+2020,6,Spanish Grand Prix,ALB,Red Bull Racing,77.029
+2020,6,Spanish Grand Prix,BOT,Mercedes,75.643
+2020,6,Spanish Grand Prix,GAS,AlphaTauri,76.8
+2020,6,Spanish Grand Prix,GIO,Alfa Romeo Racing,78.697
+2020,6,Spanish Grand Prix,GRO,Haas F1 Team,78.089
+2020,6,Spanish Grand Prix,HAM,Mercedes,75.584
+2020,6,Spanish Grand Prix,KVY,AlphaTauri,77.192
+2020,6,Spanish Grand Prix,LAT,Williams,78.532
+2020,6,Spanish Grand Prix,LEC,Ferrari,76.953
+2020,6,Spanish Grand Prix,MAG,Haas F1 Team,77.908
+2020,6,Spanish Grand Prix,NOR,McLaren,77.084
+2020,6,Spanish Grand Prix,OCO,Renault,77.567
+2020,6,Spanish Grand Prix,PER,Racing Point,76.482
+2020,6,Spanish Grand Prix,RAI,Alfa Romeo Racing,77.386
+2020,6,Spanish Grand Prix,RIC,Renault,77.198
+2020,6,Spanish Grand Prix,RUS,Williams,78.099
+2020,6,Spanish Grand Prix,SAI,McLaren,76.876
+2020,6,Spanish Grand Prix,STR,Racing Point,76.589
+2020,6,Spanish Grand Prix,VER,Red Bull Racing,76.292
+2020,6,Spanish Grand Prix,VET,Ferrari,77.168
+2020,7,Belgian Grand Prix,ALB,Red Bull Racing,102.193
+2020,7,Belgian Grand Prix,BOT,Mercedes,101.763
+2020,7,Belgian Grand Prix,GAS,AlphaTauri,102.745
+2020,7,Belgian Grand Prix,GIO,Alfa Romeo Racing,103.95
+2020,7,Belgian Grand Prix,GRO,Haas F1 Team,103.838
+2020,7,Belgian Grand Prix,HAM,Mercedes,101.252
+2020,7,Belgian Grand Prix,KVY,AlphaTauri,102.73
+2020,7,Belgian Grand Prix,LAT,Williams,104.138
+2020,7,Belgian Grand Prix,LEC,Ferrari,102.996
+2020,7,Belgian Grand Prix,MAG,Haas F1 Team,104.314
+2020,7,Belgian Grand Prix,NOR,McLaren,102.657
+2020,7,Belgian Grand Prix,OCO,Renault,102.396
+2020,7,Belgian Grand Prix,PER,Racing Point,102.532
+2020,7,Belgian Grand Prix,RAI,Alfa Romeo Racing,103.743
+2020,7,Belgian Grand Prix,RIC,Renault,102.061
+2020,7,Belgian Grand Prix,RUS,Williams,103.468
+2020,7,Belgian Grand Prix,SAI,McLaren,102.438
+2020,7,Belgian Grand Prix,STR,Racing Point,102.491
+2020,7,Belgian Grand Prix,VER,Red Bull Racing,101.778
+2020,7,Belgian Grand Prix,VET,Ferrari,103.261
+2020,8,Italian Grand Prix,ALB,Red Bull Racing,80.064
+2020,8,Italian Grand Prix,BOT,Mercedes,78.952
+2020,8,Italian Grand Prix,GAS,AlphaTauri,79.909
+2020,8,Italian Grand Prix,GIO,Alfa Romeo Racing,81.206
+2020,8,Italian Grand Prix,GRO,Haas F1 Team,81.139
+2020,8,Italian Grand Prix,HAM,Mercedes,78.887
+2020,8,Italian Grand Prix,KVY,AlphaTauri,80.169
+2020,8,Italian Grand Prix,LAT,Williams,81.717
+2020,8,Italian Grand Prix,LEC,Ferrari,80.273
+2020,8,Italian Grand Prix,MAG,Haas F1 Team,80.869
+2020,8,Italian Grand Prix,NOR,McLaren,79.82
+2020,8,Italian Grand Prix,OCO,Renault,80.234
+2020,8,Italian Grand Prix,PER,Racing Point,79.718
+2020,8,Italian Grand Prix,RAI,Alfa Romeo Racing,80.926
+2020,8,Italian Grand Prix,RIC,Renault,79.864
+2020,8,Italian Grand Prix,RUS,Williams,81.587
+2020,8,Italian Grand Prix,SAI,McLaren,79.695
+2020,8,Italian Grand Prix,STR,Racing Point,79.924
+2020,8,Italian Grand Prix,VER,Red Bull Racing,79.78
+2020,8,Italian Grand Prix,VET,Ferrari,81.151
+2020,9,Tuscan Grand Prix,ALB,Red Bull Racing,75.914
+2020,9,Tuscan Grand Prix,BOT,Mercedes,75.203
+2020,9,Tuscan Grand Prix,GAS,AlphaTauri,77.125
+2020,9,Tuscan Grand Prix,GIO,Alfa Romeo Racing,77.22
+2020,9,Tuscan Grand Prix,GRO,Haas F1 Team,77.069
+2020,9,Tuscan Grand Prix,HAM,Mercedes,75.144
+2020,9,Tuscan Grand Prix,KVY,AlphaTauri,76.854
+2020,9,Tuscan Grand Prix,LAT,Williams,77.32
+2020,9,Tuscan Grand Prix,LEC,Ferrari,76.27
+2020,9,Tuscan Grand Prix,MAG,Haas F1 Team,77.348
+2020,9,Tuscan Grand Prix,NOR,McLaren,76.64
+2020,9,Tuscan Grand Prix,OCO,Renault,76.297
+2020,9,Tuscan Grand Prix,PER,Racing Point,76.311
+2020,9,Tuscan Grand Prix,RAI,Alfa Romeo Racing,76.854
+2020,9,Tuscan Grand Prix,RIC,Renault,76.243
+2020,9,Tuscan Grand Prix,RUS,Williams,77.232
+2020,9,Tuscan Grand Prix,SAI,McLaren,76.522
+2020,9,Tuscan Grand Prix,STR,Racing Point,76.271
+2020,9,Tuscan Grand Prix,VER,Red Bull Racing,75.471
+2020,9,Tuscan Grand Prix,VET,Ferrari,76.858
+2020,10,Russian Grand Prix,ALB,Red Bull Racing,93.008
+2020,10,Russian Grand Prix,BOT,Mercedes,91.956
+2020,10,Russian Grand Prix,GAS,AlphaTauri,93.0
+2020,10,Russian Grand Prix,GIO,Alfa Romeo Racing,94.594
+2020,10,Russian Grand Prix,GRO,Haas F1 Team,94.592
+2020,10,Russian Grand Prix,HAM,Mercedes,91.304
+2020,10,Russian Grand Prix,KVY,AlphaTauri,93.249
+2020,10,Russian Grand Prix,LAT,Williams,95.066
+2020,10,Russian Grand Prix,LEC,Ferrari,93.239
+2020,10,Russian Grand Prix,MAG,Haas F1 Team,94.681
+2020,10,Russian Grand Prix,NOR,McLaren,92.847
+2020,10,Russian Grand Prix,OCO,Renault,92.624
+2020,10,Russian Grand Prix,PER,Racing Point,92.317
+2020,10,Russian Grand Prix,RAI,Alfa Romeo Racing,95.267
+2020,10,Russian Grand Prix,RIC,Renault,92.218
+2020,10,Russian Grand Prix,RUS,Williams,93.583
+2020,10,Russian Grand Prix,SAI,McLaren,92.55
+2020,10,Russian Grand Prix,STR,Racing Point,93.364
+2020,10,Russian Grand Prix,VER,Red Bull Racing,91.867
+2020,10,Russian Grand Prix,VET,Ferrari,93.609
+2020,11,Eifel Grand Prix,ALB,Red Bull Racing,86.047
+2020,11,Eifel Grand Prix,BOT,Mercedes,85.269
+2020,11,Eifel Grand Prix,GAS,AlphaTauri,86.776
+2020,11,Eifel Grand Prix,GIO,Alfa Romeo Racing,86.936
+2020,11,Eifel Grand Prix,GRO,Haas F1 Team,87.118
+2020,11,Eifel Grand Prix,HAM,Mercedes,85.39
+2020,11,Eifel Grand Prix,HUL,Racing Point,88.021
+2020,11,Eifel Grand Prix,KVY,AlphaTauri,86.848
+2020,11,Eifel Grand Prix,LAT,Williams,87.812
+2020,11,Eifel Grand Prix,LEC,Ferrari,86.035
+2020,11,Eifel Grand Prix,MAG,Haas F1 Team,87.125
+2020,11,Eifel Grand Prix,NOR,McLaren,86.316
+2020,11,Eifel Grand Prix,OCO,Renault,86.242
+2020,11,Eifel Grand Prix,PER,Racing Point,86.33
+2020,11,Eifel Grand Prix,RAI,Alfa Romeo Racing,87.817
+2020,11,Eifel Grand Prix,RIC,Renault,86.096
+2020,11,Eifel Grand Prix,RUS,Williams,87.564
+2020,11,Eifel Grand Prix,SAI,McLaren,86.361
+2020,11,Eifel Grand Prix,VER,Red Bull Racing,85.467
+2020,11,Eifel Grand Prix,VET,Ferrari,86.738
+2020,12,Portuguese Grand Prix,ALB,Red Bull Racing,77.411
+2020,12,Portuguese Grand Prix,BOT,Mercedes,76.466
+2020,12,Portuguese Grand Prix,GAS,AlphaTauri,77.209
+2020,12,Portuguese Grand Prix,GIO,Alfa Romeo Racing,78.323
+2020,12,Portuguese Grand Prix,GRO,Haas F1 Team,78.364
+2020,12,Portuguese Grand Prix,HAM,Mercedes,76.652
+2020,12,Portuguese Grand Prix,KVY,AlphaTauri,77.728
+2020,12,Portuguese Grand Prix,LAT,Williams,78.494
+2020,12,Portuguese Grand Prix,LEC,Ferrari,77.09
+2020,12,Portuguese Grand Prix,MAG,Haas F1 Team,78.508
+2020,12,Portuguese Grand Prix,NOR,McLaren,77.321
+2020,12,Portuguese Grand Prix,OCO,Renault,77.614
+2020,12,Portuguese Grand Prix,PER,Racing Point,77.129
+2020,12,Portuguese Grand Prix,RAI,Alfa Romeo Racing,78.201
+2020,12,Portuguese Grand Prix,RIC,Renault,77.481
+2020,12,Portuguese Grand Prix,RUS,Williams,77.788
+2020,12,Portuguese Grand Prix,SAI,McLaren,77.183
+2020,12,Portuguese Grand Prix,STR,Racing Point,77.476
+2020,12,Portuguese Grand Prix,VER,Red Bull Racing,76.879
+2020,12,Portuguese Grand Prix,VET,Ferrari,77.446
+2020,13,Emilia Romagna Grand Prix,ALB,Red Bull Racing,74.572
+2020,13,Emilia Romagna Grand Prix,BOT,Mercedes,73.609
+2020,13,Emilia Romagna Grand Prix,GAS,AlphaTauri,74.502
+2020,13,Emilia Romagna Grand Prix,GIO,Alfa Romeo Racing,76.208
+2020,13,Emilia Romagna Grand Prix,GRO,Haas F1 Team,75.918
+2020,13,Emilia Romagna Grand Prix,HAM,Mercedes,73.706
+2020,13,Emilia Romagna Grand Prix,KVY,AlphaTauri,74.696
+2020,13,Emilia Romagna Grand Prix,LAT,Williams,75.987
+2020,13,Emilia Romagna Grand Prix,LEC,Ferrari,74.616
+2020,13,Emilia Romagna Grand Prix,MAG,Haas F1 Team,75.939
+2020,13,Emilia Romagna Grand Prix,NOR,McLaren,74.814
+2020,13,Emilia Romagna Grand Prix,OCO,Renault,75.201
+2020,13,Emilia Romagna Grand Prix,PER,Racing Point,75.061
+2020,13,Emilia Romagna Grand Prix,RAI,Alfa Romeo Racing,75.758
+2020,13,Emilia Romagna Grand Prix,RIC,Renault,74.52
+2020,13,Emilia Romagna Grand Prix,RUS,Williams,75.323
+2020,13,Emilia Romagna Grand Prix,SAI,McLaren,74.911
+2020,13,Emilia Romagna Grand Prix,STR,Racing Point,75.494
+2020,13,Emilia Romagna Grand Prix,VER,Red Bull Racing,74.176
+2020,13,Emilia Romagna Grand Prix,VET,Ferrari,75.274
+2020,14,Turkish Grand Prix,ALB,Red Bull Racing,110.448
+2020,14,Turkish Grand Prix,BOT,Mercedes,113.258
+2020,14,Turkish Grand Prix,GAS,AlphaTauri,118.556
+2020,14,Turkish Grand Prix,GIO,Alfa Romeo Racing,113.431
+2020,14,Turkish Grand Prix,GRO,Haas F1 Team,132.909
+2020,14,Turkish Grand Prix,HAM,Mercedes,112.56
+2020,14,Turkish Grand Prix,KVY,AlphaTauri,129.07
+2020,14,Turkish Grand Prix,LAT,Williams,141.611
+2020,14,Turkish Grand Prix,LEC,Ferrari,116.696
+2020,14,Turkish Grand Prix,MAG,Haas F1 Team,128.007
+2020,14,Turkish Grand Prix,NOR,McLaren,114.945
+2020,14,Turkish Grand Prix,OCO,Renault,112.622
+2020,14,Turkish Grand Prix,PER,Racing Point,109.321
+2020,14,Turkish Grand Prix,RAI,Alfa Romeo Racing,112.745
+2020,14,Turkish Grand Prix,RIC,Renault,111.595
+2020,14,Turkish Grand Prix,RUS,Williams,130.017
+2020,14,Turkish Grand Prix,SAI,McLaren,115.41
+2020,14,Turkish Grand Prix,STR,Racing Point,107.765
+2020,14,Turkish Grand Prix,VER,Red Bull Racing,108.055
+2020,14,Turkish Grand Prix,VET,Ferrari,115.169
+2020,15,Bahrain Grand Prix,ALB,Red Bull Racing,88.274
+2020,15,Bahrain Grand Prix,BOT,Mercedes,87.553
+2020,15,Bahrain Grand Prix,GAS,AlphaTauri,88.448
+2020,15,Bahrain Grand Prix,GIO,Alfa Romeo Racing,89.491
+2020,15,Bahrain Grand Prix,GRO,Haas F1 Team,90.138
+2020,15,Bahrain Grand Prix,HAM,Mercedes,87.264
+2020,15,Bahrain Grand Prix,KVY,AlphaTauri,88.618
+2020,15,Bahrain Grand Prix,LAT,Williams,90.182
+2020,15,Bahrain Grand Prix,LEC,Ferrari,89.137
+2020,15,Bahrain Grand Prix,MAG,Haas F1 Team,90.111
+2020,15,Bahrain Grand Prix,NOR,McLaren,88.542
+2020,15,Bahrain Grand Prix,OCO,Renault,88.419
+2020,15,Bahrain Grand Prix,PER,Racing Point,88.322
+2020,15,Bahrain Grand Prix,RAI,Alfa Romeo Racing,89.81
+2020,15,Bahrain Grand Prix,RIC,Renault,88.417
+2020,15,Bahrain Grand Prix,RUS,Williams,89.294
+2020,15,Bahrain Grand Prix,SAI,McLaren,88.975
+2020,15,Bahrain Grand Prix,STR,Racing Point,88.679
+2020,15,Bahrain Grand Prix,VER,Red Bull Racing,87.678
+2020,15,Bahrain Grand Prix,VET,Ferrari,89.142
+2020,16,Sakhir Grand Prix,AIT,Williams,54.892
+2020,16,Sakhir Grand Prix,ALB,Red Bull Racing,54.026
+2020,16,Sakhir Grand Prix,BOT,Mercedes,53.377
+2020,16,Sakhir Grand Prix,FIT,Haas F1 Team,55.426
+2020,16,Sakhir Grand Prix,GAS,AlphaTauri,53.941
+2020,16,Sakhir Grand Prix,GIO,Alfa Romeo Racing,54.377
+2020,16,Sakhir Grand Prix,KVY,AlphaTauri,53.856
+2020,16,Sakhir Grand Prix,LAT,Williams,54.796
+2020,16,Sakhir Grand Prix,LEC,Ferrari,53.613
+2020,16,Sakhir Grand Prix,MAG,Haas F1 Team,54.705
+2020,16,Sakhir Grand Prix,NOR,McLaren,54.194
+2020,16,Sakhir Grand Prix,OCO,Renault,53.995
+2020,16,Sakhir Grand Prix,PER,Racing Point,53.787
+2020,16,Sakhir Grand Prix,RAI,Alfa Romeo Racing,54.963
+2020,16,Sakhir Grand Prix,RIC,Renault,53.871
+2020,16,Sakhir Grand Prix,RUS,Mercedes,53.403
+2020,16,Sakhir Grand Prix,SAI,McLaren,53.818
+2020,16,Sakhir Grand Prix,STR,Racing Point,53.84
+2020,16,Sakhir Grand Prix,VER,Red Bull Racing,53.433
+2020,16,Sakhir Grand Prix,VET,Ferrari,54.175
+2020,17,Abu Dhabi Grand Prix,ALB,Red Bull Racing,95.571
+2020,17,Abu Dhabi Grand Prix,BOT,Mercedes,95.271
+2020,17,Abu Dhabi Grand Prix,FIT,Haas F1 Team,98.173
+2020,17,Abu Dhabi Grand Prix,GAS,AlphaTauri,96.242
+2020,17,Abu Dhabi Grand Prix,GIO,Alfa Romeo Racing,97.066
+2020,17,Abu Dhabi Grand Prix,HAM,Mercedes,95.332
+2020,17,Abu Dhabi Grand Prix,KVY,AlphaTauri,95.963
+2020,17,Abu Dhabi Grand Prix,LAT,Williams,98.443
+2020,17,Abu Dhabi Grand Prix,LEC,Ferrari,95.881
+2020,17,Abu Dhabi Grand Prix,MAG,Haas F1 Team,97.863
+2020,17,Abu Dhabi Grand Prix,NOR,McLaren,95.497
+2020,17,Abu Dhabi Grand Prix,OCO,Renault,96.359
+2020,17,Abu Dhabi Grand Prix,PER,Racing Point,96.034
+2020,17,Abu Dhabi Grand Prix,RAI,Alfa Romeo Racing,97.555
+2020,17,Abu Dhabi Grand Prix,RIC,Renault,96.406
+2020,17,Abu Dhabi Grand Prix,RUS,Williams,98.045
+2020,17,Abu Dhabi Grand Prix,SAI,McLaren,95.815
+2020,17,Abu Dhabi Grand Prix,STR,Racing Point,96.046
+2020,17,Abu Dhabi Grand Prix,VER,Red Bull Racing,95.246
+2020,17,Abu Dhabi Grand Prix,VET,Ferrari,96.631

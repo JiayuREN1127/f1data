@@ -1,0 +1,440 @@
+﻿Year,Round,EventName,DriverAbbr,Team,BestLapTime_s
+2023,1,Bahrain Grand Prix,ALB,Williams,91.461
+2023,1,Bahrain Grand Prix,ALO,Aston Martin,90.336
+2023,1,Bahrain Grand Prix,BOT,Alfa Romeo,91.443
+2023,1,Bahrain Grand Prix,DEV,AlphaTauri,92.121
+2023,1,Bahrain Grand Prix,GAS,Alpine,91.818
+2023,1,Bahrain Grand Prix,HAM,Mercedes,90.384
+2023,1,Bahrain Grand Prix,HUL,Haas F1 Team,90.809
+2023,1,Bahrain Grand Prix,LEC,Ferrari,90.0
+2023,1,Bahrain Grand Prix,MAG,Haas F1 Team,91.892
+2023,1,Bahrain Grand Prix,NOR,McLaren,91.381
+2023,1,Bahrain Grand Prix,OCO,Alpine,90.914
+2023,1,Bahrain Grand Prix,PER,Red Bull Racing,89.846
+2023,1,Bahrain Grand Prix,PIA,McLaren,92.101
+2023,1,Bahrain Grand Prix,RUS,Mercedes,90.34
+2023,1,Bahrain Grand Prix,SAI,Ferrari,90.154
+2023,1,Bahrain Grand Prix,SAR,Williams,91.652
+2023,1,Bahrain Grand Prix,STR,Aston Martin,90.836
+2023,1,Bahrain Grand Prix,TSU,AlphaTauri,91.4
+2023,1,Bahrain Grand Prix,VER,Red Bull Racing,89.708
+2023,1,Bahrain Grand Prix,ZHO,Alfa Romeo,91.473
+2023,2,Saudi Arabian Grand Prix,ALB,Williams,89.994
+2023,2,Saudi Arabian Grand Prix,ALO,Aston Martin,88.73
+2023,2,Saudi Arabian Grand Prix,BOT,Alfa Romeo,89.668
+2023,2,Saudi Arabian Grand Prix,DEV,AlphaTauri,90.244
+2023,2,Saudi Arabian Grand Prix,GAS,Alpine,89.357
+2023,2,Saudi Arabian Grand Prix,HAM,Mercedes,89.223
+2023,2,Saudi Arabian Grand Prix,HUL,Haas F1 Team,89.451
+2023,2,Saudi Arabian Grand Prix,LEC,Ferrari,88.42
+2023,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,89.517
+2023,2,Saudi Arabian Grand Prix,NOR,McLaren,90.447
+2023,2,Saudi Arabian Grand Prix,OCO,Alpine,89.078
+2023,2,Saudi Arabian Grand Prix,PER,Red Bull Racing,88.265
+2023,2,Saudi Arabian Grand Prix,PIA,McLaren,89.243
+2023,2,Saudi Arabian Grand Prix,RUS,Mercedes,88.857
+2023,2,Saudi Arabian Grand Prix,SAI,Ferrari,88.931
+2023,2,Saudi Arabian Grand Prix,SAR,Williams,89.721
+2023,2,Saudi Arabian Grand Prix,STR,Aston Martin,88.945
+2023,2,Saudi Arabian Grand Prix,TSU,AlphaTauri,89.939
+2023,2,Saudi Arabian Grand Prix,VER,Red Bull Racing,88.761
+2023,2,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,89.461
+2023,3,Australian Grand Prix,ALB,Williams,77.609
+2023,3,Australian Grand Prix,ALO,Aston Martin,77.139
+2023,3,Australian Grand Prix,BOT,Alfa Romeo,78.714
+2023,3,Australian Grand Prix,DEV,AlphaTauri,78.335
+2023,3,Australian Grand Prix,GAS,Alpine,77.574
+2023,3,Australian Grand Prix,HAM,Mercedes,77.104
+2023,3,Australian Grand Prix,HUL,Haas F1 Team,77.412
+2023,3,Australian Grand Prix,LEC,Ferrari,77.369
+2023,3,Australian Grand Prix,MAG,Haas F1 Team,78.129
+2023,3,Australian Grand Prix,NOR,McLaren,78.119
+2023,3,Australian Grand Prix,OCO,Alpine,77.768
+2023,3,Australian Grand Prix,PER,Red Bull Racing,100.187
+2023,3,Australian Grand Prix,PIA,McLaren,78.517
+2023,3,Australian Grand Prix,RUS,Mercedes,76.968
+2023,3,Australian Grand Prix,SAI,Ferrari,77.27
+2023,3,Australian Grand Prix,SAR,Williams,78.557
+2023,3,Australian Grand Prix,STR,Aston Martin,77.308
+2023,3,Australian Grand Prix,TSU,AlphaTauri,78.099
+2023,3,Australian Grand Prix,VER,Red Bull Racing,76.732
+2023,3,Australian Grand Prix,ZHO,Alfa Romeo,78.54
+2023,4,Azerbaijan Grand Prix,ALB,Williams,101.818
+2023,4,Azerbaijan Grand Prix,ALO,Aston Martin,101.253
+2023,4,Azerbaijan Grand Prix,BOT,Alfa Romeo,102.259
+2023,4,Azerbaijan Grand Prix,DEV,AlphaTauri,115.282
+2023,4,Azerbaijan Grand Prix,GAS,Alpine,104.853
+2023,4,Azerbaijan Grand Prix,HAM,Mercedes,101.177
+2023,4,Azerbaijan Grand Prix,HUL,Haas F1 Team,102.755
+2023,4,Azerbaijan Grand Prix,LEC,Ferrari,100.203
+2023,4,Azerbaijan Grand Prix,MAG,Haas F1 Team,103.417
+2023,4,Azerbaijan Grand Prix,NOR,McLaren,101.281
+2023,4,Azerbaijan Grand Prix,OCO,Alpine,101.798
+2023,4,Azerbaijan Grand Prix,PER,Red Bull Racing,100.495
+2023,4,Azerbaijan Grand Prix,PIA,McLaren,101.611
+2023,4,Azerbaijan Grand Prix,RUS,Mercedes,101.654
+2023,4,Azerbaijan Grand Prix,SAI,Ferrari,101.016
+2023,4,Azerbaijan Grand Prix,SAR,Williams,102.242
+2023,4,Azerbaijan Grand Prix,STR,Aston Martin,101.576
+2023,4,Azerbaijan Grand Prix,TSU,AlphaTauri,101.569
+2023,4,Azerbaijan Grand Prix,VER,Red Bull Racing,100.391
+2023,4,Azerbaijan Grand Prix,ZHO,Alfa Romeo,102.642
+2023,5,Miami Grand Prix,ALB,Williams,87.795
+2023,5,Miami Grand Prix,ALO,Aston Martin,87.097
+2023,5,Miami Grand Prix,BOT,Alfa Romeo,87.564
+2023,5,Miami Grand Prix,DEV,AlphaTauri,88.325
+2023,5,Miami Grand Prix,GAS,Alpine,87.612
+2023,5,Miami Grand Prix,HAM,Mercedes,87.846
+2023,5,Miami Grand Prix,HUL,Haas F1 Team,87.903
+2023,5,Miami Grand Prix,LEC,Ferrari,86.964
+2023,5,Miami Grand Prix,MAG,Haas F1 Team,87.673
+2023,5,Miami Grand Prix,NOR,McLaren,88.394
+2023,5,Miami Grand Prix,OCO,Alpine,87.444
+2023,5,Miami Grand Prix,PER,Red Bull Racing,86.841
+2023,5,Miami Grand Prix,PIA,McLaren,88.484
+2023,5,Miami Grand Prix,RUS,Mercedes,87.743
+2023,5,Miami Grand Prix,SAI,Ferrari,87.148
+2023,5,Miami Grand Prix,SAR,Williams,88.577
+2023,5,Miami Grand Prix,STR,Aston Martin,88.476
+2023,5,Miami Grand Prix,TSU,AlphaTauri,88.429
+2023,5,Miami Grand Prix,VER,Red Bull Racing,86.814
+2023,5,Miami Grand Prix,ZHO,Alfa Romeo,88.091
+2023,6,Monaco Grand Prix,ALB,Williams,72.527
+2023,6,Monaco Grand Prix,ALO,Aston Martin,71.449
+2023,6,Monaco Grand Prix,BOT,Alfa Romeo,72.625
+2023,6,Monaco Grand Prix,DEV,AlphaTauri,72.428
+2023,6,Monaco Grand Prix,GAS,Alpine,71.933
+2023,6,Monaco Grand Prix,HAM,Mercedes,71.725
+2023,6,Monaco Grand Prix,HUL,Haas F1 Team,73.279
+2023,6,Monaco Grand Prix,LEC,Ferrari,71.471
+2023,6,Monaco Grand Prix,MAG,Haas F1 Team,73.27
+2023,6,Monaco Grand Prix,NOR,McLaren,72.254
+2023,6,Monaco Grand Prix,OCO,Alpine,71.553
+2023,6,Monaco Grand Prix,PER,Red Bull Racing,73.85
+2023,6,Monaco Grand Prix,PIA,McLaren,72.395
+2023,6,Monaco Grand Prix,RUS,Mercedes,71.964
+2023,6,Monaco Grand Prix,SAI,Ferrari,71.63
+2023,6,Monaco Grand Prix,SAR,Williams,73.113
+2023,6,Monaco Grand Prix,STR,Aston Martin,72.623
+2023,6,Monaco Grand Prix,TSU,AlphaTauri,72.082
+2023,6,Monaco Grand Prix,VER,Red Bull Racing,71.365
+2023,6,Monaco Grand Prix,ZHO,Alfa Romeo,73.523
+2023,7,Spanish Grand Prix,ALB,Williams,74.063
+2023,7,Spanish Grand Prix,ALO,Aston Martin,73.098
+2023,7,Spanish Grand Prix,BOT,Alfa Romeo,73.977
+2023,7,Spanish Grand Prix,DEV,AlphaTauri,73.581
+2023,7,Spanish Grand Prix,GAS,Alpine,72.816
+2023,7,Spanish Grand Prix,HAM,Mercedes,72.818
+2023,7,Spanish Grand Prix,HUL,Haas F1 Team,73.229
+2023,7,Spanish Grand Prix,LEC,Ferrari,74.079
+2023,7,Spanish Grand Prix,MAG,Haas F1 Team,74.042
+2023,7,Spanish Grand Prix,NOR,McLaren,72.776
+2023,7,Spanish Grand Prix,OCO,Alpine,73.001
+2023,7,Spanish Grand Prix,PER,Red Bull Racing,73.334
+2023,7,Spanish Grand Prix,PIA,McLaren,73.059
+2023,7,Spanish Grand Prix,RUS,Mercedes,73.326
+2023,7,Spanish Grand Prix,SAI,Ferrari,72.734
+2023,7,Spanish Grand Prix,SAR,Williams,74.699
+2023,7,Spanish Grand Prix,STR,Aston Martin,72.994
+2023,7,Spanish Grand Prix,TSU,AlphaTauri,73.316
+2023,7,Spanish Grand Prix,VER,Red Bull Racing,72.272
+2023,7,Spanish Grand Prix,ZHO,Alfa Romeo,73.521
+2023,8,Canadian Grand Prix,ALB,Williams,78.725
+2023,8,Canadian Grand Prix,ALO,Aston Martin,79.776
+2023,8,Canadian Grand Prix,BOT,Alfa Romeo,81.821
+2023,8,Canadian Grand Prix,DEV,AlphaTauri,83.137
+2023,8,Canadian Grand Prix,GAS,Alpine,82.886
+2023,8,Canadian Grand Prix,HAM,Mercedes,80.426
+2023,8,Canadian Grand Prix,HUL,Haas F1 Team,80.305
+2023,8,Canadian Grand Prix,LEC,Ferrari,80.615
+2023,8,Canadian Grand Prix,MAG,Haas F1 Team,81.678
+2023,8,Canadian Grand Prix,NOR,McLaren,79.347
+2023,8,Canadian Grand Prix,OCO,Alpine,80.406
+2023,8,Canadian Grand Prix,PER,Red Bull Racing,80.959
+2023,8,Canadian Grand Prix,PIA,McLaren,79.659
+2023,8,Canadian Grand Prix,RUS,Mercedes,80.098
+2023,8,Canadian Grand Prix,SAI,Ferrari,79.856
+2023,8,Canadian Grand Prix,SAR,Williams,83.337
+2023,8,Canadian Grand Prix,STR,Aston Martin,81.484
+2023,8,Canadian Grand Prix,TSU,AlphaTauri,82.746
+2023,8,Canadian Grand Prix,VER,Red Bull Racing,79.092
+2023,8,Canadian Grand Prix,ZHO,Alfa Romeo,83.342
+2023,9,Austrian Grand Prix,ALB,Williams,65.34
+2023,9,Austrian Grand Prix,ALO,Aston Martin,64.911
+2023,9,Austrian Grand Prix,BOT,Alfa Romeo,65.513
+2023,9,Austrian Grand Prix,DEV,AlphaTauri,65.974
+2023,9,Austrian Grand Prix,GAS,Alpine,65.084
+2023,9,Austrian Grand Prix,HAM,Mercedes,64.819
+2023,9,Austrian Grand Prix,HUL,Haas F1 Team,65.09
+2023,9,Austrian Grand Prix,LEC,Ferrari,64.439
+2023,9,Austrian Grand Prix,MAG,Haas F1 Team,65.793
+2023,9,Austrian Grand Prix,NOR,McLaren,64.658
+2023,9,Austrian Grand Prix,OCO,Alpine,65.295
+2023,9,Austrian Grand Prix,PER,Red Bull Racing,64.99
+2023,9,Austrian Grand Prix,PIA,McLaren,65.213
+2023,9,Austrian Grand Prix,RUS,Mercedes,65.408
+2023,9,Austrian Grand Prix,SAI,Ferrari,64.581
+2023,9,Austrian Grand Prix,SAR,Williams,65.948
+2023,9,Austrian Grand Prix,STR,Aston Martin,64.893
+2023,9,Austrian Grand Prix,TSU,AlphaTauri,65.784
+2023,9,Austrian Grand Prix,VER,Red Bull Racing,64.391
+2023,9,Austrian Grand Prix,ZHO,Alfa Romeo,65.818
+2023,10,British Grand Prix,ALB,Williams,87.53
+2023,10,British Grand Prix,ALO,Aston Martin,87.659
+2023,10,British Grand Prix,BOT,Alfa Romeo,89.798
+2023,10,British Grand Prix,DEV,AlphaTauri,90.513
+2023,10,British Grand Prix,GAS,Alpine,87.689
+2023,10,British Grand Prix,HAM,Mercedes,87.211
+2023,10,British Grand Prix,HUL,Haas F1 Team,88.896
+2023,10,British Grand Prix,LEC,Ferrari,87.136
+2023,10,British Grand Prix,MAG,Haas F1 Team,92.378
+2023,10,British Grand Prix,NOR,McLaren,86.961
+2023,10,British Grand Prix,OCO,Alpine,88.956
+2023,10,British Grand Prix,PER,Red Bull Racing,89.968
+2023,10,British Grand Prix,PIA,McLaren,87.092
+2023,10,British Grand Prix,RUS,Mercedes,87.155
+2023,10,British Grand Prix,SAI,Ferrari,87.148
+2023,10,British Grand Prix,SAR,Williams,89.031
+2023,10,British Grand Prix,STR,Aston Martin,88.935
+2023,10,British Grand Prix,TSU,AlphaTauri,90.025
+2023,10,British Grand Prix,VER,Red Bull Racing,86.72
+2023,10,British Grand Prix,ZHO,Alfa Romeo,90.123
+2023,11,Hungarian Grand Prix,ALB,Williams,78.917
+2023,11,Hungarian Grand Prix,ALO,Aston Martin,77.035
+2023,11,Hungarian Grand Prix,BOT,Alfa Romeo,77.034
+2023,11,Hungarian Grand Prix,GAS,Alpine,78.045
+2023,11,Hungarian Grand Prix,HAM,Mercedes,76.609
+2023,11,Hungarian Grand Prix,HUL,Haas F1 Team,77.186
+2023,11,Hungarian Grand Prix,LEC,Ferrari,76.992
+2023,11,Hungarian Grand Prix,MAG,Haas F1 Team,79.206
+2023,11,Hungarian Grand Prix,NOR,McLaren,76.694
+2023,11,Hungarian Grand Prix,OCO,Alpine,77.841
+2023,11,Hungarian Grand Prix,PER,Red Bull Racing,77.045
+2023,11,Hungarian Grand Prix,PIA,McLaren,76.905
+2023,11,Hungarian Grand Prix,RIC,AlphaTauri,78.002
+2023,11,Hungarian Grand Prix,RUS,Mercedes,79.027
+2023,11,Hungarian Grand Prix,SAI,Ferrari,77.703
+2023,11,Hungarian Grand Prix,SAR,Williams,79.248
+2023,11,Hungarian Grand Prix,STR,Aston Martin,77.861
+2023,11,Hungarian Grand Prix,TSU,AlphaTauri,78.919
+2023,11,Hungarian Grand Prix,VER,Red Bull Racing,76.612
+2023,11,Hungarian Grand Prix,ZHO,Alfa Romeo,76.971
+2023,12,Belgian Grand Prix,ALB,Williams,120.314
+2023,12,Belgian Grand Prix,ALO,Aston Martin,107.843
+2023,12,Belgian Grand Prix,BOT,Alfa Romeo,114.694
+2023,12,Belgian Grand Prix,GAS,Alpine,113.671
+2023,12,Belgian Grand Prix,HAM,Mercedes,107.087
+2023,12,Belgian Grand Prix,HUL,Haas F1 Team,123.166
+2023,12,Belgian Grand Prix,LEC,Ferrari,106.988
+2023,12,Belgian Grand Prix,MAG,Haas F1 Team,114.16
+2023,12,Belgian Grand Prix,NOR,McLaren,107.669
+2023,12,Belgian Grand Prix,OCO,Alpine,116.372
+2023,12,Belgian Grand Prix,PER,Red Bull Racing,107.045
+2023,12,Belgian Grand Prix,PIA,McLaren,107.365
+2023,12,Belgian Grand Prix,RIC,AlphaTauri,119.483
+2023,12,Belgian Grand Prix,RUS,Mercedes,107.805
+2023,12,Belgian Grand Prix,SAI,Ferrari,107.152
+2023,12,Belgian Grand Prix,SAR,Williams,121.535
+2023,12,Belgian Grand Prix,STR,Aston Martin,108.841
+2023,12,Belgian Grand Prix,TSU,AlphaTauri,113.148
+2023,12,Belgian Grand Prix,VER,Red Bull Racing,106.168
+2023,12,Belgian Grand Prix,ZHO,Alfa Romeo,120.832
+2023,13,Dutch Grand Prix,ALB,Williams,71.419
+2023,13,Dutch Grand Prix,ALO,Aston Martin,71.506
+2023,13,Dutch Grand Prix,BOT,Alfa Romeo,82.26
+2023,13,Dutch Grand Prix,GAS,Alpine,80.128
+2023,13,Dutch Grand Prix,HAM,Mercedes,80.151
+2023,13,Dutch Grand Prix,HUL,Haas F1 Team,80.25
+2023,13,Dutch Grand Prix,LAW,AlphaTauri,83.42
+2023,13,Dutch Grand Prix,LEC,Ferrari,72.665
+2023,13,Dutch Grand Prix,MAG,Haas F1 Team,82.192
+2023,13,Dutch Grand Prix,NOR,McLaren,71.104
+2023,13,Dutch Grand Prix,OCO,Alpine,82.11
+2023,13,Dutch Grand Prix,PER,Red Bull Racing,71.88
+2023,13,Dutch Grand Prix,PIA,McLaren,71.938
+2023,13,Dutch Grand Prix,RUS,Mercedes,71.294
+2023,13,Dutch Grand Prix,SAI,Ferrari,71.754
+2023,13,Dutch Grand Prix,SAR,Williams,76.748
+2023,13,Dutch Grand Prix,STR,Aston Martin,80.121
+2023,13,Dutch Grand Prix,TSU,AlphaTauri,80.23
+2023,13,Dutch Grand Prix,VER,Red Bull Racing,70.567
+2023,13,Dutch Grand Prix,ZHO,Alfa Romeo,82.067
+2023,14,Italian Grand Prix,ALB,Williams,80.76
+2023,14,Italian Grand Prix,ALO,Aston Martin,81.417
+2023,14,Italian Grand Prix,BOT,Alfa Romeo,81.94
+2023,14,Italian Grand Prix,GAS,Alpine,82.545
+2023,14,Italian Grand Prix,HAM,Mercedes,80.82
+2023,14,Italian Grand Prix,HUL,Haas F1 Team,81.776
+2023,14,Italian Grand Prix,LAW,AlphaTauri,81.758
+2023,14,Italian Grand Prix,LEC,Ferrari,80.361
+2023,14,Italian Grand Prix,MAG,Haas F1 Team,82.592
+2023,14,Italian Grand Prix,NOR,McLaren,80.979
+2023,14,Italian Grand Prix,OCO,Alpine,82.548
+2023,14,Italian Grand Prix,PER,Red Bull Racing,80.688
+2023,14,Italian Grand Prix,PIA,McLaren,80.785
+2023,14,Italian Grand Prix,RUS,Mercedes,80.671
+2023,14,Italian Grand Prix,SAI,Ferrari,80.294
+2023,14,Italian Grand Prix,SAR,Williams,81.93
+2023,14,Italian Grand Prix,STR,Aston Martin,82.86
+2023,14,Italian Grand Prix,TSU,AlphaTauri,81.594
+2023,14,Italian Grand Prix,VER,Red Bull Racing,80.307
+2023,14,Italian Grand Prix,ZHO,Alfa Romeo,82.39
+2023,15,Singapore Grand Prix,ALB,Williams,92.668
+2023,15,Singapore Grand Prix,ALO,Aston Martin,91.615
+2023,15,Singapore Grand Prix,BOT,Alfa Romeo,92.809
+2023,15,Singapore Grand Prix,GAS,Alpine,92.274
+2023,15,Singapore Grand Prix,HAM,Mercedes,91.485
+2023,15,Singapore Grand Prix,HUL,Haas F1 Team,91.808
+2023,15,Singapore Grand Prix,LAW,AlphaTauri,92.166
+2023,15,Singapore Grand Prix,LEC,Ferrari,91.063
+2023,15,Singapore Grand Prix,MAG,Haas F1 Team,91.575
+2023,15,Singapore Grand Prix,NOR,McLaren,91.27
+2023,15,Singapore Grand Prix,OCO,Alpine,91.673
+2023,15,Singapore Grand Prix,PER,Red Bull Racing,92.099
+2023,15,Singapore Grand Prix,PIA,McLaren,92.902
+2023,15,Singapore Grand Prix,RUS,Mercedes,91.056
+2023,15,Singapore Grand Prix,SAI,Ferrari,90.984
+2023,15,Singapore Grand Prix,SAR,Williams,93.252
+2023,15,Singapore Grand Prix,STR,Aston Martin,93.397
+2023,15,Singapore Grand Prix,TSU,AlphaTauri,91.991
+2023,15,Singapore Grand Prix,VER,Red Bull Racing,92.173
+2023,15,Singapore Grand Prix,ZHO,Alfa Romeo,93.258
+2023,16,Japanese Grand Prix,ALB,Williams,90.537
+2023,16,Japanese Grand Prix,ALO,Aston Martin,90.465
+2023,16,Japanese Grand Prix,BOT,Alfa Romeo,91.049
+2023,16,Japanese Grand Prix,GAS,Alpine,90.509
+2023,16,Japanese Grand Prix,HAM,Mercedes,89.908
+2023,16,Japanese Grand Prix,HUL,Haas F1 Team,91.299
+2023,16,Japanese Grand Prix,LAW,AlphaTauri,90.425
+2023,16,Japanese Grand Prix,LEC,Ferrari,89.542
+2023,16,Japanese Grand Prix,MAG,Haas F1 Team,90.665
+2023,16,Japanese Grand Prix,NOR,McLaren,89.493
+2023,16,Japanese Grand Prix,OCO,Alpine,90.586
+2023,16,Japanese Grand Prix,PER,Red Bull Racing,89.65
+2023,16,Japanese Grand Prix,PIA,McLaren,89.458
+2023,16,Japanese Grand Prix,RUS,Mercedes,90.219
+2023,16,Japanese Grand Prix,SAI,Ferrari,89.85
+2023,16,Japanese Grand Prix,STR,Aston Martin,91.181
+2023,16,Japanese Grand Prix,TSU,AlphaTauri,90.204
+2023,16,Japanese Grand Prix,VER,Red Bull Racing,88.877
+2023,16,Japanese Grand Prix,ZHO,Alfa Romeo,91.379
+2023,17,Qatar Grand Prix,ALB,Williams,85.707
+2023,17,Qatar Grand Prix,ALO,Aston Martin,84.369
+2023,17,Qatar Grand Prix,BOT,Alfa Romeo,85.058
+2023,17,Qatar Grand Prix,GAS,Alpine,84.553
+2023,17,Qatar Grand Prix,HAM,Mercedes,84.305
+2023,17,Qatar Grand Prix,HUL,Haas F1 Team,85.547
+2023,17,Qatar Grand Prix,LAW,AlphaTauri,86.635
+2023,17,Qatar Grand Prix,LEC,Ferrari,84.424
+2023,17,Qatar Grand Prix,MAG,Haas F1 Team,87.046
+2023,17,Qatar Grand Prix,NOR,McLaren,84.074
+2023,17,Qatar Grand Prix,OCO,Alpine,84.763
+2023,17,Qatar Grand Prix,PER,Red Bull Racing,85.275
+2023,17,Qatar Grand Prix,PIA,McLaren,84.228
+2023,17,Qatar Grand Prix,RUS,Mercedes,84.219
+2023,17,Qatar Grand Prix,SAI,Ferrari,85.328
+2023,17,Qatar Grand Prix,SAR,Williams,86.21
+2023,17,Qatar Grand Prix,STR,Aston Martin,86.345
+2023,17,Qatar Grand Prix,TSU,AlphaTauri,85.301
+2023,17,Qatar Grand Prix,VER,Red Bull Racing,83.778
+2023,17,Qatar Grand Prix,ZHO,Alfa Romeo,87.432
+2023,18,United States Grand Prix,ALB,Williams,96.315
+2023,18,United States Grand Prix,ALO,Aston Martin,96.268
+2023,18,United States Grand Prix,BOT,Alfa Romeo,95.858
+2023,18,United States Grand Prix,GAS,Alpine,95.089
+2023,18,United States Grand Prix,HAM,Mercedes,94.862
+2023,18,United States Grand Prix,HUL,Haas F1 Team,96.235
+2023,18,United States Grand Prix,LEC,Ferrari,94.723
+2023,18,United States Grand Prix,MAG,Haas F1 Team,95.88
+2023,18,United States Grand Prix,NOR,McLaren,94.853
+2023,18,United States Grand Prix,OCO,Alpine,95.154
+2023,18,United States Grand Prix,PER,Red Bull Racing,95.173
+2023,18,United States Grand Prix,PIA,McLaren,95.467
+2023,18,United States Grand Prix,RIC,AlphaTauri,95.974
+2023,18,United States Grand Prix,RUS,Mercedes,95.079
+2023,18,United States Grand Prix,SAI,Ferrari,94.945
+2023,18,United States Grand Prix,SAR,Williams,96.827
+2023,18,United States Grand Prix,STR,Aston Martin,96.589
+2023,18,United States Grand Prix,TSU,AlphaTauri,95.697
+2023,18,United States Grand Prix,VER,Red Bull Racing,94.718
+2023,18,United States Grand Prix,ZHO,Alfa Romeo,95.698
+2023,19,Mexico City Grand Prix,ALB,Williams,78.302
+2023,19,Mexico City Grand Prix,ALO,Aston Martin,78.738
+2023,19,Mexico City Grand Prix,BOT,Alfa Romeo,78.016
+2023,19,Mexico City Grand Prix,GAS,Alpine,78.521
+2023,19,Mexico City Grand Prix,HAM,Mercedes,77.454
+2023,19,Mexico City Grand Prix,HUL,Haas F1 Team,78.524
+2023,19,Mexico City Grand Prix,LEC,Ferrari,77.166
+2023,19,Mexico City Grand Prix,MAG,Haas F1 Team,79.163
+2023,19,Mexico City Grand Prix,NOR,McLaren,81.554
+2023,19,Mexico City Grand Prix,OCO,Alpine,79.08
+2023,19,Mexico City Grand Prix,PER,Red Bull Racing,77.423
+2023,19,Mexico City Grand Prix,PIA,McLaren,77.623
+2023,19,Mexico City Grand Prix,RIC,AlphaTauri,77.382
+2023,19,Mexico City Grand Prix,RUS,Mercedes,77.673
+2023,19,Mexico City Grand Prix,SAI,Ferrari,77.233
+2023,19,Mexico City Grand Prix,SAR,Williams,79.965
+2023,19,Mexico City Grand Prix,STR,Aston Martin,79.227
+2023,19,Mexico City Grand Prix,TSU,AlphaTauri,78.89
+2023,19,Mexico City Grand Prix,VER,Red Bull Racing,77.263
+2023,19,Mexico City Grand Prix,ZHO,Alfa Romeo,78.05
+2023,20,São Paulo Grand Prix,ALB,Williams,70.621
+2023,20,São Paulo Grand Prix,ALO,Aston Martin,70.237
+2023,20,São Paulo Grand Prix,BOT,Alfa Romeo,70.955
+2023,20,São Paulo Grand Prix,GAS,Alpine,70.567
+2023,20,São Paulo Grand Prix,HAM,Mercedes,70.266
+2023,20,São Paulo Grand Prix,HUL,Haas F1 Team,70.475
+2023,20,São Paulo Grand Prix,LEC,Ferrari,70.303
+2023,20,São Paulo Grand Prix,MAG,Haas F1 Team,70.602
+2023,20,São Paulo Grand Prix,NOR,McLaren,70.021
+2023,20,São Paulo Grand Prix,OCO,Alpine,70.562
+2023,20,São Paulo Grand Prix,PER,Red Bull Racing,70.219
+2023,20,São Paulo Grand Prix,PIA,McLaren,70.33
+2023,20,São Paulo Grand Prix,RIC,AlphaTauri,70.843
+2023,20,São Paulo Grand Prix,RUS,Mercedes,70.316
+2023,20,São Paulo Grand Prix,SAI,Ferrari,70.254
+2023,20,São Paulo Grand Prix,SAR,Williams,71.035
+2023,20,São Paulo Grand Prix,STR,Aston Martin,70.375
+2023,20,São Paulo Grand Prix,TSU,AlphaTauri,70.837
+2023,20,São Paulo Grand Prix,VER,Red Bull Racing,70.162
+2023,20,São Paulo Grand Prix,ZHO,Alfa Romeo,71.275
+2023,21,Las Vegas Grand Prix,ALB,Williams,93.323
+2023,21,Las Vegas Grand Prix,ALO,Aston Martin,93.555
+2023,21,Las Vegas Grand Prix,BOT,Alfa Romeo,93.525
+2023,21,Las Vegas Grand Prix,GAS,Alpine,93.239
+2023,21,Las Vegas Grand Prix,HAM,Mercedes,93.837
+2023,21,Las Vegas Grand Prix,HUL,Haas F1 Team,93.979
+2023,21,Las Vegas Grand Prix,LEC,Ferrari,92.726
+2023,21,Las Vegas Grand Prix,MAG,Haas F1 Team,93.537
+2023,21,Las Vegas Grand Prix,NOR,McLaren,94.703
+2023,21,Las Vegas Grand Prix,OCO,Alpine,94.834
+2023,21,Las Vegas Grand Prix,PER,Red Bull Racing,93.855
+2023,21,Las Vegas Grand Prix,PIA,McLaren,94.85
+2023,21,Las Vegas Grand Prix,RIC,AlphaTauri,94.308
+2023,21,Las Vegas Grand Prix,RUS,Mercedes,93.112
+2023,21,Las Vegas Grand Prix,SAI,Ferrari,92.77
+2023,21,Las Vegas Grand Prix,SAR,Williams,93.513
+2023,21,Las Vegas Grand Prix,STR,Aston Martin,94.199
+2023,21,Las Vegas Grand Prix,TSU,AlphaTauri,96.447
+2023,21,Las Vegas Grand Prix,VER,Red Bull Racing,93.104
+2023,21,Las Vegas Grand Prix,ZHO,Alfa Romeo,94.849
+2023,22,Abu Dhabi Grand Prix,ALB,Williams,84.298
+2023,22,Abu Dhabi Grand Prix,ALO,Aston Martin,84.084
+2023,22,Abu Dhabi Grand Prix,BOT,Alfa Romeo,84.788
+2023,22,Abu Dhabi Grand Prix,GAS,Alpine,84.078
+2023,22,Abu Dhabi Grand Prix,HAM,Mercedes,84.359
+2023,22,Abu Dhabi Grand Prix,HUL,Haas F1 Team,84.108
+2023,22,Abu Dhabi Grand Prix,LEC,Ferrari,83.584
+2023,22,Abu Dhabi Grand Prix,MAG,Haas F1 Team,84.764
+2023,22,Abu Dhabi Grand Prix,NOR,McLaren,83.816
+2023,22,Abu Dhabi Grand Prix,OCO,Alpine,84.391
+2023,22,Abu Dhabi Grand Prix,PER,Red Bull Racing,83.868
+2023,22,Abu Dhabi Grand Prix,PIA,McLaren,83.782
+2023,22,Abu Dhabi Grand Prix,RIC,AlphaTauri,84.442
+2023,22,Abu Dhabi Grand Prix,RUS,Mercedes,83.788
+2023,22,Abu Dhabi Grand Prix,SAI,Ferrari,84.738
+2023,22,Abu Dhabi Grand Prix,SAR,Williams,84.532
+2023,22,Abu Dhabi Grand Prix,STR,Aston Martin,84.405
+2023,22,Abu Dhabi Grand Prix,TSU,AlphaTauri,83.968
+2023,22,Abu Dhabi Grand Prix,VER,Red Bull Racing,83.445
+2023,22,Abu Dhabi Grand Prix,ZHO,Alfa Romeo,85.114

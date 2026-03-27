@@ -1,0 +1,23 @@
+﻿Year,Round,EventName,IsRainy,RainyLapFraction,AirTemp_mean,TrackTemp_mean,Humidity_mean,WindSpeed_mean
+2023,1,Bahrain Grand Prix,False,0.0,27.432,31.012,21.497,0.683
+2023,2,Saudi Arabian Grand Prix,False,0.0,26.092,31.793,57.791,1.772
+2023,3,Australian Grand Prix,False,0.0,17.45,30.14,54.158,1.127
+2023,4,Azerbaijan Grand Prix,False,0.0,24.861,41.21,49.225,1.083
+2023,5,Miami Grand Prix,False,0.0,27.117,36.689,59.426,3.97
+2023,6,Monaco Grand Prix,True,0.1477,25.066,39.256,45.864,1.006
+2023,7,Spanish Grand Prix,False,0.0,22.674,33.839,63.078,1.869
+2023,8,Canadian Grand Prix,False,0.0,18.53,30.593,63.901,1.942
+2023,9,Austrian Grand Prix,True,0.0196,22.398,32.054,52.046,1.097
+2023,10,British Grand Prix,False,0.0,21.474,30.941,56.185,3.024
+2023,11,Hungarian Grand Prix,False,0.0,28.809,48.579,32.805,1.441
+2023,12,Belgian Grand Prix,True,0.0733,17.873,28.241,61.927,1.595
+2023,13,Dutch Grand Prix,True,0.2297,16.792,24.941,70.775,2.822
+2023,14,Italian Grand Prix,False,0.0,29.33,42.928,42.321,1.14
+2023,15,Singapore Grand Prix,False,0.0,29.844,36.422,72.028,1.416
+2023,16,Japanese Grand Prix,False,0.0,27.289,42.07,42.316,1.83
+2023,17,Qatar Grand Prix,False,0.0,31.463,36.932,73.157,0.89
+2023,18,United States Grand Prix,False,0.0,29.96,40.629,41.911,3.314
+2023,19,Mexico City Grand Prix,False,0.0,25.547,45.639,23.553,1.49
+2023,20,São Paulo Grand Prix,True,0.0055,20.46,46.776,58.175,1.309
+2023,21,Las Vegas Grand Prix,False,0.0,18.05,17.994,47.361,2.301
+2023,22,Abu Dhabi Grand Prix,False,0.0,26.963,33.461,51.0,1.795
